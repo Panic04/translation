@@ -128,7 +128,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">NANITE_REPAIR_CLOUD</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Trasmetti i naniti riparatori attraverso il Network, curando tutte [abilityblue]Networked[/abilityblue] unità per {healAmount} per Livello di network.</Data></Cell>
+    <Cell><Data ss:Type="String">Trasmetti i naniti riparatori attraverso il Network, curando tutte òe unità nel [abilityblue]Network[/abilityblue] di {healAmount} per Livello di network.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_PROJECTION</Data></Cell>
