@@ -253,7 +253,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Self-repair Systems</Data></Cell>
+    <Cell><Data ss:Type="String">Systema di auto-riparzione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
