@@ -128,7 +128,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">NANITE_REPAIR_CLOUD</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Trasmetti i naniti riparatori attraverso il Network, curando tutte [abilityblue]Networked[/abilityblue] unità per {healAmount} per Livello di network.</Data></Cell>
+    <Cell><Data ss:Type="String">Trasmetti i naniti riparatori attraverso il Network, curando tutte le unità nel [abilityblue]Network[/abilityblue] di {healAmount} per Livello di network.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_PROJECTION</Data></Cell>
@@ -173,7 +173,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SENTENCE_TARGET</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Questa unità ha resistenza -{DamageResistanceDown}in tutti i canali di danno ed è più facile da colpire del {EvadeDown}%.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità ha resistenza -{DamageResistanceDown} in tutti i canali di danno ed è più facile da colpire del {EvadeDown}%.</Data></Cell>
    </Row>
    <Row ss:Index="29" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">INITIALIZE_CONNECTION</Data></Cell>
@@ -183,7 +183,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="180">
     <Cell><Data ss:Type="String">INITIALIZE_CONNECTION</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">[abilityblue]Mette nel Network[/abilityblue] tuute le unità Mechanical amiche,  garantendole un bonus che diventa più forte ad ogni uso successivo: [br/][bulletList][bullet]Livello 1: {accuracyBonus} a precisione negli attacchi e resistenza +{arcResistance}[DefenseWave/] . [/bullet][bullet]Livello 2: Gli attacchi dell'unità guadagnano un livello di [abilityred]Impatto Scorcentante[/abilityred]. [/bullet][bullet]Livello 3: {damageBonus} aumenta il danno di tutti gli attachi e {rangeBonus} di raggio negli attacchi a distanza.[/bullet][/bulletList]</Data></Cell>1
+    <Cell><Data ss:Type="String">[abilityblue]Mette nel Network[/abilityblue] tutte le unità Mechanical amiche,  garantendole un bonus che diventa più forte ad ogni uso successivo: [br/][bulletList][bullet]Livello 1: {accuracyBonus} a precisione negli attacchi e resistenza +{arcResistance}[DefenseWave/] . [/bullet][bullet]Livello 2: Gli attacchi dell'unità guadagnano un livello di [abilityred]Impatto Scorcentante[/abilityred]. [/bullet][bullet]Livello 3: {damageBonus} aumenta il danno di tutti gli attachi e {rangeBonus} di raggio negli attacchi a distanza.[/bullet][/bulletList]</Data></Cell>1
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_1</Data></Cell>
@@ -203,7 +203,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_2</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Tutti gli attachi di questa unità guadagnano un livello di[abilityred]Impatto Sconcertante[/abilityred].</Data></Cell>
+    <Cell><Data ss:Type="String">Tutti gli attachi di questa unità guadagnano un livello di [abilityred]Impatto Sconcertante[/abilityred].</Data></Cell>
    </Row>
    <Row ss:Index="38" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_3</Data></Cell>
@@ -238,7 +238,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">MAIN_NODE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Tutte le unità interessate perderanno un livello [abilityblue]Networked[/abilityblue] se questa unità viene uccisa.</Data></Cell>
+    <Cell><Data ss:Type="String">Tutte le unità interessate perderanno un livello di [abilityblue]Network[/abilityblue] se questa unità viene uccisa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDENANCE</Data></Cell>
@@ -248,27 +248,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDENANCE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Gli attacchi Esplosivi di questa unità ottengono una possibilità forza {DisruptionMatStr} strength di applicare [abilityred]Concussione[/abilityred] a unità non-Eteree e non-Meccaniche per {ConcussTurn}.</Data></Cell>
+    <Cell><Data ss:Type="String">Gli attacchi Esplosivi di questa unità ottengono una possibilità del {DisruptionMatStr}  di applicare [abilityred]Concussione[/abilityred] a unità non-Eteree e non-Meccaniche per {ConcussTurn}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Systema di auto-riparzione</Data></Cell>
+    <Cell><Data ss:Type="String">Sistemi di auto-riparazione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit has self-repair systems that heal it during battle for {healbattle} each turn, and heal it to full [hp/] at the start of every Strategic turn.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità ha dai sistemi di auto-riparazione che la curano durante la battaglia di {healbattle} ogni turno, e la curano a pieni [hp/] all'inizio di ogni turno Strategico.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">PROP_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit self-repairs during battle for {healbattle} each turn, and heals to full [hp/] at the start of every Strategic turn.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità si auto-ripara durante la battaglia di {healbattle} ogni turno, e si cura a pieni [hp/] all'inizio di ogni turno Strategico.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Immolation Matrix</Data></Cell>
+    <Cell><Data ss:Type="String">Matrice Immolatrice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="81.75">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
