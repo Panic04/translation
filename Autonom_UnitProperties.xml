@@ -273,27 +273,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="81.75">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">This matrix cause Laser attacks to ignite units hit, giving a {DisruptionMatStr} strength chance to [abilityred]Immolate[/abilityred] non-Ethereal and non-Mineral units for {ImmoTurn}. If resisted, apply [abilityred]Burning[/abilityred] instead.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Questa matrice fa sì che gli attacchi laser infiammino le unità colpite, dando una possiblità di forza del {DisruptionMatStr} di [abilityred]Immolare[/abilityred] unità non-Eteree e non-Minerali per {ImmoTurn}. Invece se è constrasta applica [abilityred]Ardente[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Mining Laser Upgrade</Data></Cell>
+    <Cell><Data ss:Type="String">Aggiornamento del raggio minerario</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">All Laser attacks gain [abilityred]Melt Armor[/abilityred], removing {armorMelt}[armor/] with each hit.</Data></Cell>
+    <Cell><Data ss:Type="String">Tutti gli attachi laser ottengono [abilityred]Fondi Armatura[/abilityred], sottraendo {armorMelt}[armor/] con ogni colpo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NETWORK_COMPATIBLE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Network Compatible</Data></Cell>
+    <Cell><Data ss:Type="String">Compatibe al Network</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">NETWORK_COMPATIBLE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is Nework Compatible and can benefit from [abilityblue]Networked[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità è Compatibile al Network e può beneficiare dal [abilityblue]Networked[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
