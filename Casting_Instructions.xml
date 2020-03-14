@@ -235,22 +235,22 @@
    <Row ss:Index="49" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Influenza tutte le basi settoriale possedute</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Influenza tutte le basi settoriale amiche</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Influenza tutte le basi settoriale nemiche</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Influenza tutte le basi settoriale</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali</Data></Cell>
    </Row>
    <Row ss:Index="54" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_SINGLE</Data></Cell>

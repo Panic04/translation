@@ -181,98 +181,98 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Tutte le unità adiacenti a questa unità hanno una forza {PacifiedChance} chance of becoming [abilityred]Pacified[/abilityred], disabling damaging abilities for {PacificationAuraTurns}.</Data></Cell>
+    <Cell><Data ss:Type="String">Tutte le unità adiacenti a questa unità hanno una possibilità di forza {PacifiedChance} di diventare [abilityred]Pacificate[/abilityred], disabiltando abilità danneggianti per {PacificationAuraTurns}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Pacified</Data></Cell>
+    <Cell><Data ss:Type="String">Pacificato</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit cannot bring themselves to use any offensive abilities.</Data></Cell>
+    <Cell><Data ss:Type="String">Queste unità non possono convincersi a usare qualsiasi abilità offensiva.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Shield of Reckoning</Data></Cell>
+    <Cell><Data ss:Type="String">Scudo della Resa dei Conti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">MOD_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit reflects {ShieldofReckoningChance} of all damage done to them back to their attacker.[br/]This unit is now considered [abilityblue]Enlightened[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Quest unità riflette il {ShieldofReckoningChance} di tutto il danno a essa recato a chi l'ha attaccata.[br/]Questa unità è ora considerata [abilityblue]Illuminata[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:Index="26" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_1_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Karmic Amplification</Data></Cell>
+    <Cell><Data ss:Type="String">Amplicifazione Carmica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_1_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">We accept everyone who we can possibly sway to follow the Celestian way. By aiding others, we reveal to them the one and only truth.[br/][br/]The cooldown for requesting a new quest from a faction is reduced by {durationChange}[turn/]</Data></Cell>
+    <Cell><Data ss:Type="String">Accetiamo wutti quelli che potremmo convincere a seguire la via Celestiana.[br/][br/]Il tempo di attesa per richiedere una nuova missione da una fazione è ridotto di {durationChange}[turn/]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_2_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Missionary Negotiators</Data></Cell>
+    <Cell><Data ss:Type="String">Negoziatori Missionari</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_2_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Convincing others of the justness of your cause makes them more inclined to sell their treasures for less.[br/][br/]Cost of bribing NPC Faction stacks is reduced by {Bribereduction}.[br/]The [influence/] cost of items you can buy from Dwelling Shops is reduced by {LoweredCost}.[br/][br/][firecol]Dwelling Shop discounts can never exceed {MaxDiscountPercentage}[/firecol]</Data></Cell>
+    <Cell><Data ss:Type="String">Convincere altri della giustezza della tua causa li rende più inclini a vendere i loro tesori a minor prezzo.[br/][br/]Il costo di corrompere stacks di fazione NPC è ridotto di {Bribereduction}.[br/]Il [influence/] costo degli oggetti che puoi comprare da Negozi Dwelling è ridotto di {LoweredCost}.[br/][br/][firecol]I Negozi Dwelling non possono mai eccedere {MaxDiscountPercentage}[/firecol]</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_2_TOOLDESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Missionary Negotiators: {CostReduction}</Data></Cell>
+    <Cell><Data ss:Type="String">Negoziatori Missionari: {CostReduction}</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_3_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Harmonious Existence</Data></Cell>
+    <Cell><Data ss:Type="String">Esistenza Armoniosa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_3_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">By teaching your population to live in harmony with the world and each other, they will live a happier life.[br/][br/]Each Colony you own that is not of your starting race provides an additional {RaceRelations} to relations with that race.[br/]All your Colonies have {HappinessBonus}[happiness/].</Data></Cell>
+    <Cell><Data ss:Type="String">Insegnando alla tua popolazione a vivere in armonia con il mondo e se stessi, vivranno una vita più felice..[br/][br/]Ogni Colonia che possiedi  che non è della tua razza iniziale provvede un'addizionale {RaceRelations} alle relazioni con quella razza.[br/]Tutte le tue colonie hanno {HappinessBonus}[happiness/].</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_4_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Judgment</Data></Cell>
+    <Cell><Data ss:Type="String">Giudizio Celeste</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_4_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Not everyone can be shown the light through talking and scriptures - some will have to be forced to bend the knee to our teachings.[br/][br/]Your Enlightened units deal {AdditionalDamage} added damage to non-Enlightened units.</Data></Cell>
+    <Cell><Data ss:Type="String">La luce non si può mostrare a tutti attraverso dialoghi e scritture - alcuni dovranno essere forzati a inginocchiarsi ai nostri insegnamenti.[br/][br/]Le tue unità illuminate  recano {AdditionalDamage} di danno aggiuntivo a unità non-Illuminate.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_4_PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Your [abilityblue]Enlightened[/abilityblue] units deal an additional {AdditionalDamage} damage to non-Enlightened units.</Data></Cell>
+    <Cell><Data ss:Type="String">Le tue unità [abilityblue]illuminate[/abilityblue] recano un addizionale {AdditionalDamage} di danno a unità non-Illuminate.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_4_MODIFIER_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">{AdditionalDamage} damage to non-Enlightened units</Data></Cell>
+    <Cell><Data ss:Type="String">{AdditionalDamage} danno a truppe non-Illuminate</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_5_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Disincentive Prayers</Data></Cell>
+    <Cell><Data ss:Type="String">Preghiere Disincentivanti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_5_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">By chanting our beliefs every day, we can disincentivize most unwanted visitors from coming near us again.[br/][br/]Marauders no longer attack your Colonies and sector bases, nor do they trespass in your domain.</Data></Cell>
+    <Cell><Data ss:Type="String">Cantando le nostre credenze ogni giorno, possiamo disincetivare la maggior parte dei visitatori non desiderati a riavvicinarsi a noi.[br/][br/]I predoni non attaccano più le tue Colonie e le tue basi settoriali, nè oltrepassanoil tuo dominio.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
