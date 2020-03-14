@@ -273,7 +273,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="81.75">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Questa matrice fa sì che gli attacchi laser infiammino le unità colpite, dando possiblità di forza  {DisruptionMatStr} possiblità di forza di [abilityred]Immolare[/abilityred] unità non-Eteree e non-Minerali per {ImmoTurn}. Invece se è contrasta applica [abilityred]Ardente[/abilityred].</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Questa matrice fa sì che gli attacchi laser infiammino le unità colpite, dando una possiblità di forza  {DisruptionMatStr}  di [abilityred]Immolare[/abilityred] unità non-Eteree e non-Minerali per {ImmoTurn}. Invece se è contrastata applica [abilityred]Ardente[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>

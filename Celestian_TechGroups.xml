@@ -111,77 +111,77 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAN</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestian</Data></Cell>
+    <Cell><Data ss:Type="String">Celestiano</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Tenets of Tranquility</Data></Cell>
+    <Cell><Data ss:Type="String">Fondamenti della Tranquillità</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">MOD_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is immune to all negative morale effects and gains one level of Stagger Resistance.[br/]This unit is now considered [abilityblue]Enlightened[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità è immune a tutti gli effetti morali negativi e ottiene un livello di Resistenza Barcollamento.[br/Questa unità è ora considerata [abilityblue]Illuminata[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Shield of Remorse</Data></Cell>
+    <Cell><Data ss:Type="String">Scudo di Rimorso</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">MOD_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Each time this unit is damaged by another unit, the attacker has a strength {SoulBurnChance}[strengthpsyche/] chance to become [abilityred]Soulburn[/abilityred]. The attacker also gains [abilityred]Remorse[/abilityred], a stacking debuff that applies {RemorseHappiness} for {RemorseTurns}.[br/]This unit is now considered [abilityblue]Enlightened[/abilityblue].</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ogni volta che questa unità viene danneggiata da un'altra unità, l'attaccante ha una forza {SoulBurnChance}[strengthpsyche/] possibilità di diventare [abilityred]Anima Bruciante[/abilityred]. L'attaccante ottiene anche [abilityred]Rimorso[/abilityred], un debuff impilabile che applica {RemorseHappiness} per {RemorseTurns}.[br/]Questa unità è ora considerata [abilityblue]Illuminata[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Remorse</Data></Cell>
+    <Cell><Data ss:Type="String">Rimorso</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is filled with remorse, and suffers from {RemorseMorale}.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità è piena di rimorso, e soffre di {RemorseMorale}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Tenets of Healing</Data></Cell>
+    <Cell><Data ss:Type="String">Fondamenti della Guarigione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEALING_TOUCH</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Healing Touch</Data></Cell>
+    <Cell><Data ss:Type="String">Tocco Guarente</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEALING_TOUCH</Data></Cell>
     <Cell><Data ss:Type="String">MOD_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is now considered [abilityblue]Enlightened[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità è ora considerata [abilityblue]Illuminata[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">HEALING_TOUCH</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Dispel hostile effects from target non-Mindless Biological or Cyborg unit and heal them for {HealingTouchHP}.</Data></Cell>
+    <Cell><Data ss:Type="String">Dissipa effetti ostili da obbiettivi non-Irragionevoli Biologici o unità Cyborg e li cura di {HealingTouchHP}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Tenets of Pacifism</Data></Cell>
+    <Cell><Data ss:Type="String">Fondamenti del Pacifismo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">MOD_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit can no longer trigger Overwatch attacks.[br/]This unit is now considered [abilityblue]Enlightened[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità non può più innescare attacchi Overwatch.[br/]Questa unità è ora considerata [abilityblue]Illuminata[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Project Pacifism</Data></Cell>
+    <Cell><Data ss:Type="String">Progetto pacifismo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">All units adjacent to this one have a strength {PacifiedChance} chance of becoming [abilityred]Pacified[/abilityred], disabling damaging abilities for {PacificationAuraTurns}.</Data></Cell>
+    <Cell><Data ss:Type="String">Tutte le unità adiacenti a questa unità hanno una forza {PacifiedChance} chance of becoming [abilityred]Pacified[/abilityred], disabling damaging abilities for {PacificationAuraTurns}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PACIFISM</Data></Cell>
