@@ -60,672 +60,672 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">NEXUS_PORTAL</Data></Cell>
-    <Cell><Data ss:Type="String">Select a colony and target a visible hex</Data></Cell>
+    <Cell><Data ss:Type="String">Seleziona una colonia e punta un esagono visibile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">ARC_MANIFOLD</Data></Cell>
-    <Cell><Data ss:Type="String">Target {min} to {max} enemy units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta da {min} a {max} unità nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">REMOVE_NUCLEAR_CRATER</Data></Cell>
-    <Cell><Data ss:Type="String">Target an atomic crater</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un cratere atomico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">LINEAR_ACCELERATOR</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned, non-Accelerated Mechanical or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'unità posseduta non-Accellerata Mecchanica o Cyborg</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">MASS_DRIVER_CANNON</Data></Cell>
-    <Cell><Data ss:Type="String">Target the center hex over an enemy unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta al centro dell'esagono su un'unità nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">PATHOGENIC_WAVE</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy colony or army with Biological or Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia nemica o un'armata con unità Biologiche o Cyborg</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">DOOMSDAY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all colonies, sectors and units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le colonie, settori e unità</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">MOUNTAIN_BREAKER</Data></Cell>
-    <Cell><Data ss:Type="String">Target a sector with mountains</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un settoriale con montagne</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPECIFIC_CASTING_INSTRUCTIONS</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY_DEAD</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly, dead, non-Flying unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'unità non-Volante amica morta</Data></Cell>
    </Row>
    <Row ss:Index="13" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'armata posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'armata amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'unità nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'armata</Data></Cell>
    </Row>
    <Row ss:Index="19" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_STACK_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over enemy armies</Data></Cell>
+    <Cell><Data ss:Type="String">Punta su unità nemiche</Data></Cell>
    </Row>
    <Row ss:Index="22" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_STACK_MECH_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy army containing Mechanical or Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un'armata nemica che contiene unità Mecchaniche o Cyborg</Data></Cell>
    </Row>
    <Row ss:Index="24" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia</Data></Cell>
    </Row>
    <Row ss:Index="29" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned colonies</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le colonie possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly colonies</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le colonie amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy colonies</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le colonie nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all colonies</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le colonie</Data></Cell>
    </Row>
    <Row ss:Index="34" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base</Data></Cell>
    </Row>
    <Row ss:Index="39" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutta le basi</Data></Cell>
    </Row>
    <Row ss:Index="44" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale</Data></Cell>
    </Row>
    <Row ss:Index="49" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned sector bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly sector bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy sector bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all sector bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi settoriali</Data></Cell>
    </Row>
    <Row ss:Index="54" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned forward base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base avanzata posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly forward base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base avanzata amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy forward base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base avanzata nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a forward base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base avanzata</Data></Cell>
    </Row>
    <Row ss:Index="59" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned forward bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi avanzate possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly forward bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi avanzate amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy forward bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi avanzate nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FORWARD_BASE_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all forward bases</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le basi avanzate</Data></Cell>
    </Row>
    <Row ss:Index="64" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CAST_ANYWHERE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target anywhere</Data></Cell>
+    <Cell><Data ss:Type="String">Punta dovunque</Data></Cell>
    </Row>
    <Row ss:Index="66" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEX_ANY</Data></Cell>
     <Cell><Data ss:Type="String">UNOBSTRUCTED</Data></Cell>
-    <Cell><Data ss:Type="String">Target any unobstructed hex</Data></Cell>
+    <Cell><Data ss:Type="String">Punta qualsiasi esagono non ostruito</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEX_ANY</Data></Cell>
     <Cell><Data ss:Type="String">UNEXPLORED</Data></Cell>
-    <Cell><Data ss:Type="String">Target any hex</Data></Cell>
+    <Cell><Data ss:Type="String">Punta qualsiasi esagono</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEX_ANY</Data></Cell>
     <Cell><Data ss:Type="String">EXPLORED</Data></Cell>
-    <Cell><Data ss:Type="String">Target any explored hex</Data></Cell>
+    <Cell><Data ss:Type="String">Punta qualsiasi esagono esplorato</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEX_ANY</Data></Cell>
     <Cell><Data ss:Type="String">VISIBLE</Data></Cell>
-    <Cell><Data ss:Type="String">Target any visible hex</Data></Cell>
+    <Cell><Data ss:Type="String">Punta qualsiasi esagono visibile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">HEX_ANY</Data></Cell>
     <Cell><Data ss:Type="String">VISIBLE_UNOBSTRUCTED</Data></Cell>
-    <Cell><Data ss:Type="String">Target any visible unobstructed hex</Data></Cell>
+    <Cell><Data ss:Type="String">Punta qualsiasi esagono visibile non ostruito</Data></Cell>
    </Row>
    <Row ss:Index="72" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NODE_OWNED</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned resource node</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un nodo di risorse posseduto</Data></Cell>
    </Row>
    <Row ss:Index="74" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target any unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta qualsiasi unità</Data></Cell>
    </Row>
    <Row ss:Index="78" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over friendly units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over enemy units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità</Data></Cell>
    </Row>
    <Row ss:Index="82" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità</Data></Cell>
    </Row>
    <Row ss:Index="87" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OBSTACLE</Data></Cell>
     <Cell><Data ss:Type="String">SINGLE</Data></Cell>
-    <Cell><Data ss:Type="String">Target an obstacle</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un ostacolo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OBSTACLE</Data></Cell>
     <Cell><Data ss:Type="String">MULTIPLE</Data></Cell>
-    <Cell><Data ss:Type="String">Target over obstacles</Data></Cell>
+    <Cell><Data ss:Type="String">Punta degli ostacoli</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">OBSTACLE</Data></Cell>
     <Cell><Data ss:Type="String">ALL</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all obstacles</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutta gli ostacoli</Data></Cell>
    </Row>
    <Row ss:Index="92" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_COLONY</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned sector base or colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale posseduta od una colonia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_COLONY</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly sector base or colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale amica od una colonia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_COLONY</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy sector base or colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale nemica od una colonia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_BASE_COLONY</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a sector base or colony</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale od una colonia</Data></Cell>
    </Row>
    <Row ss:Index="97" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PRODUCTION_BASE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned production sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale  produzione posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PRODUCTION_BASE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly production sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale produzione amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PRODUCTION_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy production sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale produzione nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PRODUCTION_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a production sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale produzione</Data></Cell>
    </Row>
    <Row ss:Index="102" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENERGY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned energy sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale energia posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENERGY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly energy sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale energia amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENERGY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy energy sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale energia nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENERGY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an energy sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale energia</Data></Cell>
    </Row>
    <Row ss:Index="107" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RESEARCH_BASE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned research sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale ricerca posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RESEARCH_BASE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly research sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale ricerca amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RESEARCH_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy research sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale ricerca nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RESEARCH_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a research sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale ricerca</Data></Cell>
    </Row>
    <Row ss:Index="112" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SUPPLY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned food sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale cibo posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SUPPLY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly food sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale cibo amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SUPPLY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy food sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale cibo nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SUPPLY_BASE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a food sector base</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una base settoriale cibo</Data></Cell>
    </Row>
    <Row ss:Index="117" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned Biological or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità Biologica o Cyborg posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly Biological or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità Biologica o Cyborg posseduta amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy Biological or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità Biologica o Cyborg posseduta nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a Biological or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità Biologica o Cyborg posseduta</Data></Cell>
    </Row>
    <Row ss:Index="122" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target over owned Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità Biologiche o Cyborg possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over friendly Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità Biologiche o Cyborg amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over enemy Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità Biologiche o Cyborg nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità Biologiche o Cyborg</Data></Cell>
    </Row>
    <Row ss:Index="127" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità Biologiche o Cyborg possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità Biologiche o Cyborg amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità Biologiche o Cyborg nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_BIO_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all Biological and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità Biologiche o Cyborg</Data></Cell>
    </Row>
    <Row ss:Index="132" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MECH_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned Mechanical or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità Mecchanica o Cyborg posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MECH_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy Mechanical or Cyborg unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità Mecchanica o Cyborg nemica</Data></Cell>
    </Row>
    <Row ss:Index="135" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MECH_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over enemy Mechanical and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità Mecchanica o Cyborg nemiche</Data></Cell>
    </Row>
    <Row ss:Index="137" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_MECH_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly Mechanical and Cyborg units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità Mecchanica o Cyborg amiche</Data></Cell>
    </Row>
    <Row ss:Index="139" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target in an owned sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore posseduto</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target in a friendly sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore amico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target in an enemy sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore nemico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target in any sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore qualsiasi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">UNOCCUPIED</Data></Cell>
-    <Cell><Data ss:Type="String">Target in an unoccupied sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore libero</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED_UNOCCUPIED</Data></Cell>
-    <Cell><Data ss:Type="String">Target in an owned or unoccupied sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore libero o posseduto</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY_UNOCCUPIED</Data></Cell>
-    <Cell><Data ss:Type="String">Target in a friendly or unoccupied sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore libero o amico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SECTOR_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY_UNOCCUPIED</Data></Cell>
-    <Cell><Data ss:Type="String">Target in an enemy or unoccupied sector</Data></Cell>
+    <Cell><Data ss:Type="String">Punta in un settore libero o nemico</Data></Cell>
    </Row>
    <Row ss:Index="148" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_GROUND_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly ground unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità amica di terra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_GROUND_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a ground unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità di terra</Data></Cell>
    </Row>
    <Row ss:Index="151" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_GROUND_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over friendly ground units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità amiche di terra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_GROUND_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over enemy ground units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità nemiche di terra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_GROUND_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over ground units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità di terra</Data></Cell>
    </Row>
    <Row ss:Index="155" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_FLYING_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over enemy flying units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità volanti nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_FLYING_MULTIPLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target over flying units</Data></Cell>
+    <Cell><Data ss:Type="String">Punta delle unità volanti</Data></Cell>
    </Row>
    <Row ss:Index="158" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_FLYING_ALL</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all owned flying units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità volanti possedute</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_FLYING_ALL</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all friendly flying units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità volanti amiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_FLYING_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all enemy flying units</Data></Cell>
+    <C0ell><Data ss:Type="String">Influenza tutte le unità volanti nemiche</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_FLYING_ALL</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Affects all flying units</Data></Cell>
+    <Cell><Data ss:Type="String">Influenza tutte le unità volanti</Data></Cell>
    </Row>
    <Row ss:Index="163" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_EXPLOSIVE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned unit that has an explosive attack</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità posseduta che ha un attacco esplosivo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_EXPLOSIVE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly unit that has an explosive attack</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità amica che ha un attacco esplosivo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_EXPLOSIVE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy unit that has an explosive attack</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità nemica che ha un attacco esplosivo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_EXPLOSIVE_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a unit that has an explosive attack</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità che ha un attacco esplosivo</Data></Cell>
    </Row>
    <Row ss:Index="168" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">OWNED</Data></Cell>
-    <Cell><Data ss:Type="String">Target an owned colony or army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia o un'armata posseduta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">FRIENDLY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a friendly colony or army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia o un'armata amica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy colony or army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia o un'armata nemica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COLONY_UNIT_STACK_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target a colony or army</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una colonia o un'armata</Data></Cell>
    </Row>
    <Row ss:Index="174" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNIT_INFANTRY_SINGLE</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy infantry unit</Data></Cell>
+    <Cell><Data ss:Type="String">Punta una unità di fanteria nemica</Data></Cell>
    </Row>
    <Row ss:Index="176" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PLAYER</Data></Cell>
     <Cell><Data ss:Type="String">ANY</Data></Cell>
-    <Cell><Data ss:Type="String">Target any player</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un giocatore qualsiasi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PLAYER</Data></Cell>
     <Cell><Data ss:Type="String">ENEMY</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy player</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un giocatore nemico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PLAYER</Data></Cell>
     <Cell><Data ss:Type="String">NOT_AT_WAR</Data></Cell>
-    <Cell><Data ss:Type="String">Target a player you are not at war with</Data></Cell>
+    <Cell><Data ss:Type="String">Punta un giocatore con cui non sei in guerra</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

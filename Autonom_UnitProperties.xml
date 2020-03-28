@@ -103,7 +103,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">CALCULATE_TARGETING_PARAMETERS</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Aumenta la precisione di quest'unità e la possibilità di un colpo critico di {CalculateAccuracyIncrease}. Anche tutte le unità [abilityblue]Networked[/abilityblue] ottengono questo effetto.</Data></Cell>
+    <Cell><Data ss:Type="String">Aumenta la precisione di quest'unità e la possibilità di un colpo critico del {CalculateAccuracyIncrease}. Anche tutte le unità nella [abilityblue]Rete[/abilityblue] ottengono questo effetto.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CALCULATE_TARGETING_PARAMETERS</Data></Cell>
@@ -113,7 +113,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CALCULATE_TARGETING_PARAMETERS</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Questa unità ottiene precisione {CalculateAccuracyIncrease} e {CalculateCriticalIncrease} possibilità di coplo critico per quantità.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità aumenta la  precisione del {CalculateAccuracyIncrease} e del {CalculateCriticalIncrease} la possibilità di coplo critico per quantità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CALCULATE_TARGETING_PARAMETERS</Data></Cell>
@@ -128,17 +128,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">NANITE_REPAIR_CLOUD</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Trasmetti i naniti riparatori attraverso il Network, curando tutte òe unità nel [abilityblue]Network[/abilityblue] di {healAmount} per Livello di network.</Data></Cell>
+    <Cell><Data ss:Type="String">Trasmetti i naniti riparatori attraverso la Rete, curando tutte le unità nella [abilityblue]Rete[/abilityblue] di {healAmount} per Livello di Rete.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_PROJECTION</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Protezzione scudo</Data></Cell>
+    <Cell><Data ss:Type="String">Protezione scudo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SHIELD_PROJECTION</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Proietta uno scudo verso l'esterno, garantendo all'unità e tutte le unità amiche [abilityblue]nel Network[/abilityblue]  {ShieldAmount} per {ShieldTurn}.</Data></Cell>
+    <Cell><Data ss:Type="String">Proietta uno scudo verso l'esterno, garantendo all'unità e tutte le unità amiche nella [abilityblue]Rete[/abilityblue]  {ShieldAmount} per {ShieldTurn}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_PROJECTION</Data></Cell>
@@ -183,12 +183,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="180">
     <Cell><Data ss:Type="String">INITIALIZE_CONNECTION</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">[abilityblue]Mette nel Network[/abilityblue] tutte le unità Mechanical amiche,  garantendole un bonus che diventa più forte ad ogni uso successivo: [br/][bulletList][bullet]Livello 1: {accuracyBonus} a precisione negli attacchi e resistenza +{arcResistance}[DefenseWave/] . [/bullet][bullet]Livello 2: Gli attacchi dell'unità guadagnano un livello di [abilityred]Impatto Scorcentante[/abilityred]. [/bullet][bullet]Livello 3: {damageBonus} aumenta il danno di tutti gli attachi e {rangeBonus} di raggio negli attacchi a distanza.[/bullet][/bulletList]</Data></Cell>1
+    <Cell><Data ss:Type="String">Mette nella [abilityblue]Rete[/abilityblue] tutte le unità Mechanical amiche,  garantendole un bonus che diventa più forte ad ogni uso successivo: [br/][bulletList][bullet]Livello 1: {accuracyBonus} a precisione negli attacchi e resistenza +{arcResistance}[DefenseWave/] . [/bullet][bullet]Livello 2: Gli attacchi dell'unità guadagnano un livello di [abilityred]Impatto Scorcentante[/abilityred]. [/bullet][bullet]Livello 3: {damageBonus} aumenta il danno di tutti gli attachi e {rangeBonus} di raggio negli attacchi a distanza.[/bullet][/bulletList]</Data></Cell>1
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_1</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Livello Network 1</Data></Cell>
+    <Cell><Data ss:Type="String">Livello Rete 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_1</Data></Cell>
@@ -198,17 +198,17 @@
    <Row ss:Index="34" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_2</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Livello Network 2</Data></Cell>
+    <Cell><Data ss:Type="String">Livello Rete 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_2</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Tutti gli attachi di questa unità guadagnano un livello di[abilityred]Impatto Sconcertante[/abilityred].</Data></Cell>
+    <Cell><Data ss:Type="String">Tutti gli attachi di questa unità guadagnano un livello di [abilityred]Impatto Sconcertante[/abilityred].</Data></Cell>
    </Row>
    <Row ss:Index="38" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_3</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Livello Network 3</Data></Cell>
+    <Cell><Data ss:Type="String">Livello Rete 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CONNECTED_LEVEL_3</Data></Cell>
@@ -238,7 +238,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">MAIN_NODE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Tutte le unità interessate perderanno un livello di [abilityblue]Network[/abilityblue] se questa unità viene uccisa.</Data></Cell>
+    <Cell><Data ss:Type="String">Tutte le unità interessate perderanno un livello di [abilityblue]Rete[/abilityblue] se questa unità viene uccisa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDENANCE</Data></Cell>
@@ -273,245 +273,245 @@
    <Row ss:AutoFitHeight="0" ss:Height="81.75">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">This matrix cause Laser attacks to ignite units hit, giving a {DisruptionMatStr} strength chance to [abilityred]Immolate[/abilityred] non-Ethereal and non-Mineral units for {ImmoTurn}. If resisted, apply [abilityred]Burning[/abilityred] instead.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Questa matrice fa sì che gli attacchi laser infiammino le unità colpite, dando una possiblità di forza  {DisruptionMatStr}  di [abilityred]Immolare[/abilityred] unità non-Eteree e non-Minerali per {ImmoTurn}. Invece se è contrastata applica [abilityred]Ardente[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Mining Laser Upgrade</Data></Cell>
+    <Cell><Data ss:Type="String">Miglioramento del raggio minerario</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">All Laser attacks gain [abilityred]Melt Armor[/abilityred], removing {armorMelt}[armor/] with each hit.</Data></Cell>
+    <Cell><Data ss:Type="String">Tutti gli attachi laser ottengono [abilityred]Squaglia Armatura[/abilityred], sottraendo {armorMelt}[armor/] con ogni colpo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NETWORK_COMPATIBLE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Network Compatible</Data></Cell>
+    <Cell><Data ss:Type="String">Compatibe alla Rete</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">NETWORK_COMPATIBLE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is Nework Compatible and can benefit from [abilityblue]Networked[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità è Compatibile alla Rete e può beneficiare dalla [abilityblue]Rete[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Autonom Network Connector</Data></Cell>
+    <Cell><Data ss:Type="String">Connettore alla rete Autonom</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit gains Network Compatible, allowing it to benefit from [abilityblue]Networked[/abilityblue].</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità ottiene Compatibile alla Rete, permettendo di beneficiare dalla [abilityblue]Rete[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:Index="59" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Linked</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Connesso</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Wired</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Cablato</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Matrix</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Matrice</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">On Grid</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nella Griglia</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Online</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">AUTONOM_NETWORK_CONNECTOR</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Networked</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nella Rete</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Stone Melting</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fusione di pietre</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Borehole</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pozzo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Fracturing</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fratturazione</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Plate Splitter</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Separa piatti</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Refracting</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Rifrattendo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">MINING_LASER_UPGRADE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Perforating</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Perforando</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDNANCE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Forcewave</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDNANCE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Skull Boomer</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Boomer Teschio</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDNANCE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Cannonball</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Palla di cannone</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDNANCE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Knockout</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDNANCE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Earth Shaker</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Squoti terra</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CONCUSSIVE_ORDNANCE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Quake</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tremito</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Overhauler</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Revisionatore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Self-Reconstructor</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Auto-Riparante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Auto Healer</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Auto curante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Regen Bot</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bot Regen</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell><Data ss:Type="String">Self-Welder</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell><Data ss:Type="String">Auto-Saldatore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SELF_REPAIR_SYSTEMS</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Unwrecker</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Riparatore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Smouldering</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Fumante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Blaze Grid</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Griglia Fiammata</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Conflagrated</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Conflagrare</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Circuit Fryer</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Friggi Circuto</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Spark Plug</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Candela</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">IMMOLATION_MATRIX</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Semiconductor</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Semiconduttore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s67"><Data ss:Type="String">Rassegna</Data></Cell>
     <Cell ss:StyleID="s66"/>
    </Row>
   </Table>

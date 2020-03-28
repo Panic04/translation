@@ -141,245 +141,245 @@
    <Row ss:AutoFitHeight="0" ss:Height="120">
     <Cell><Data ss:Type="String">CELESTIAN</Data></Cell>
     <Cell><Data ss:Type="String">DESC</Data></Cell>
-    <Cell><Data ss:Type="String">The [hyperlink,000003AC0000032E]Celestians[/hyperlink] are an ancient order of Psionically-gifted individuals that strive to achieve inner enlightenment and create balance and harmony in the universe. They believe Psionic power comes from the Stars, and use this power to protect their ideals and teachings.</Data></Cell>
+    <Cell><Data ss:Type="String">I [hyperlink,000003AC0000032E]Celestiani[/hyperlink] sono un antico ordine di Psionicamente dotati individui che lottano per ottenere illuminamento interiore e creare equilibrio e armonia nell'universo. Loro credono che i poteri Psionici vengono dalle Stelle, e usano questo potere per proteggere i propri ideali e insegnamenti.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s67"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">CELESTIAN</Data></Cell>
     <Cell><Data ss:Type="String">FEATURES</Data></Cell>
-    <Cell><Data ss:Type="String">[bulletlist][bullet]Sway enemy soldiers and colonists to your cause[/bullet][bullet]NPC diplomacy bonuses[/bullet][bullet]Strong Morale buffing and damage reflection[/bullet][bullet]Uses the Psionic and Thermal damage channels[/bullet][/bulletlist]</Data></Cell>
+    <Cell><Data ss:Type="String">[bulletlist][bullet]Influenza i soldati nemici e coloni con la tua causa[/bullet][bullet]Bonus diplomazia NPC[/bullet][bullet]Forte rinvigorimento del morale e rifflesso del danno[/bullet][bullet]Usa canali danno Psionici e Termici[/bullet][/bulletlist]</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s67"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_1_TACTICAL_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Light's Embrace</Data></Cell>
+    <Cell><Data ss:Type="String">Abbraccio della luce</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="91.5">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_1_TACTICAL_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Ponder the candle’s flame. As it warms you, look at the bruises you have acquired from a lifetime stumbling in darkness. This is your decision. Would you remain in darkness?”[br/]– Sister Rebe Katiere, Cleansing Invitation</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
+    <Cell><Data ss:Type="String">“Pondera la fiamma della candela. Mentre ti riscalda, guarda ai lividi che hai acquisito da una vita di inciampi nel buio. Questa è la tua decisione. Rimarresti nell'oscurità?”[br/]– Sorella Rebe Katiere, Invito Abluzionario </Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Amazon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_2_FORCES_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Luminance</Data></Cell>
+    <Cell><Data ss:Type="String">Luminosità</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_2_FORCES_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Let the light-bringers burn brightly, send a gleam across the bay, that the poor struggling souls adrift in the dark torrents may guide their vessels safely ashore.”[br/]– Lu’Kalla Candelieri, Guardian of Photons</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Female&#10;&#10;Edit: added space before &quot;Lu'Kalla&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">“Lascia la Bruciare luminosamente i porta-luce, manda un bagliore attraverso la baia, che le povere anime in difficoltà alla deriva nelle nere correnti possano guidare in modo sicuro a riva.”[br/]– Lu’Kalla Candelieri, Guardiano dei Fotoni</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato femminile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_2_FORCES_SUBSKILL_1</Data></Cell>
-    <Cell><Data ss:Type="String">Unit: Light Bringer</Data></Cell>
+    <Cell><Data ss:Type="String">Unità: Porta Luce</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_2_FORCES_SUBSKILL_2</Data></Cell>
-    <Cell><Data ss:Type="String">Equipment: Inferno Fists</Data></Cell>
+    <Cell><Data ss:Type="String">Equipaggiamento: Pugni Inferno</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_3_TACTICAL_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Penance</Data></Cell>
+    <Cell><Data ss:Type="String">Penitenza</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_3_TACTICAL_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Repentance is not punishment, it is celebration. It is a path to becoming trustworthy. Wiser powers do not share their secrets with those whom they cannot trust.”[br/]– Lu’Samaeliss, Guardian of Gravity</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Male</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Vanguard Male</Data></Cell>
+    <Cell><Data ss:Type="String">“Il pentimento non è una punizione, è una celebrazione. È un sentiero per diventare degno di fiducia. Poteri più saggi non condividono i loro segreti con coloro di cui non hanno fiducia.”[br/]– Lu’Samaeliss, Guardiano della Gravità</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Maschio</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Maschio all'Avanguardia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_TACTICAL_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Perseverance</Data></Cell>
+    <Cell><Data ss:Type="String">Perseveranza</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_TACTICAL_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Discipline the mind and the universe will trust you with its secrets.”[br/]– Lu’Qian Wu, Guardian of Mind</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Male</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Male</Data></Cell>
+    <Cell><Data ss:Type="String">“Disciplina la mente e l'universo ti affiderà i suoi segreti.”[br/]– Lu’Qian Wu, Guardian odella Mente</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Maschio</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato Maschile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_STRATEGIC_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Inner Fire</Data></Cell>
+    <Cell><Data ss:Type="String">Fuoco interiore</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_STRATEGIC_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“As children of the Guiding Star, every soul is born with a light to know right from wrong. When selfish choices entice a soul to extinguish their light, they punish themselves, embracing weakness.”[br/]– Eris Harper, Star Virgin</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Vanguard Female</Data></Cell>
+    <Cell><Data ss:Type="String">“Come figli della Stella Guida, ogni anima nasce senza una luce con cui discernere il bene dal male. Quando scelte egoiste inducono un'anima a estinguere la loro luce, puniscono se stessi, abbracciando la debolezza.”[br/]– Eris Harper, Vergine Stella</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Femmina all'Avanguardia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_FORCES_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Star Presence</Data></Cell>
+    <Cell><Data ss:Type="String">Presenza Migliore</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_FORCES_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“I am full of dark ignorance;[br/]My lost life hungered[br/]In corners of tarnished shame,[br/]It smothers me: this veil of regret.[br/]Your kindness pierces my shroud of guilt.[br/]Loving acts are stars in my Night.[br/]I see:[br/]Guided by sparks of Your Grace.”[br/]– D’Nac, Star Guide’s Confession</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Male</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Male&#10;&#10;Edit: This -&gt; this</Data></Cell>
+    <Cell><Data ss:Type="String">“Sono pieno di buia ignoranza;[br/]La mia vita persa bramava[br/]Negli angoli della danneggiata vergogna,[br/]Mi soffoca: Questo velo di rimorso.[br/]La tua gentilezza penetra il mio sudario di rimorso.[br/]Atti d'Amore sono stelle nella mia Notte.[br/]Vedo:[br/]Guidato dalle scintille della Tua Grazia.”[br/]– D’Nac, Confessione della Stella Guida</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Maschio</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato Maschile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_FORCES_SUBSKILL_1</Data></Cell>
-    <Cell><Data ss:Type="String">Unit: Star Guide</Data></Cell>
+    <Cell><Data ss:Type="String">Unità: Stella Guida</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_FORCES_SUBSKILL_2</Data></Cell>
-    <Cell><Data ss:Type="String">Equipment: Light's Harmony</Data></Cell>
+    <Cell><Data ss:Type="String">Equipaggiamento: Armonia della Luce</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_5_TACTICAL_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Way of Peace</Data></Cell>
+    <Cell><Data ss:Type="String">Strada della Pace</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_5_TACTICAL_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“There is no value in pride.[br/]There is no safety behind walls.[br/]There is no strength in rage.[br/]There is no freedom behind bars.[br/]There is no joy in judgment. There is no fortune in gold.[br/]There is no peace in war.”[br/]– Aya Nago, Teacher’s Tenets of Pacifism</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Female</Data></Cell>
+    <Cell><Data ss:Type="String">“Non c'è valore nella superbia.[br/]Non c'è nessuna sicurezza dietro le mura.[br/]Non c'è nessuna forza nella rabbia[br/]Non c'è nessuna libertà dietro le sbarre[br/]Non c'è nessuna gioia nel giudizio. non c'è nessuna fortuna nell'oro.[br/]Non c'è nessuna pace nella guerra.”[br/]– Aya Nago, Fondamenti del Pacifismo dell'Insegnante</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato Femminile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_5_STRATEGIC_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Light of Truth</Data></Cell>
+    <Cell><Data ss:Type="String">Luce della verità</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_5_STRATEGIC_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Truly intelligent life has the capacity to love. Love changes loss into sacrifice, and endures pain for purpose. Love sees the value in every soul and inspires them to surrender their pride and vengeance with an example of selfless service.”[br/]– Sorli Auro, Pilgrim Ascendant</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Male</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Male</Data></Cell>
+    <Cell><Data ss:Type="String">“La vita veramente intelligente possiede la capacità d'amare. L'amore muta perdita in sacrificio, e resiste il dolore per lo scopo. L'amore vede il valore in goni anima e le ispira a rendere la loro superbia e rivalsa con un esempio di servizio alruista”[br/]– Sorli Auro, Pellegrino Ascendente</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Maschio</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato Maschile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_TACTICAL_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Repercussion</Data></Cell>
+    <Cell><Data ss:Type="String">Ripercussione</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_TACTICAL_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“For those who give no reprieve, none shall be given. For those who make no amends, there shall come a reckoning.”[br/]– Lu’Vir Corr, Guardian of the Key</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Kir'ko Female</Data></Cell>
+    <Cell><Data ss:Type="String">“Per coloro che non danno tregua, nulla sarà dato. Per quelli che non fanno amende, arriverà un regolamento dei conti”[br/]– Lu’Vir Corr, Guardiano della Chiave</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Kir'ko Femmina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_STRATEGIC_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Star Ward</Data></Cell>
+    <Cell><Data ss:Type="String">Stella Protettrice</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_STRATEGIC_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“We tread a path of martyrs to ascend. Yet as long as intelligence dwells upon this world, the blood of the fallen will cry in the ears of the enlightened. Their souls will recoil from the injustice of stealing a life that deserved to live.”[br/]– Jonah Covenant, Candlekeeper</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Male</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Male</Data></Cell>
+    <Cell><Data ss:Type="String">“Calpestiamo un sentiero di martiri per ascendere. Eppure fin quando l'intelligenza risiede su questo mondo, il sangue dei caduti piangerà nelle orecchie degli illuminati. Le loro anime indietreggieranno dall'ingiustiza di rubare una vita che meritava di vivere.”[br/]– Jonah Covenant, Guardiano della Candela</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Maschio</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato Maschile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_FORCES_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Axiom of Light</Data></Cell>
+    <Cell><Data ss:Type="String">Assioma della luce</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_FORCES_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Intelligence unveils realms of choice, just as sunlight traces many paths, making visible their destinations. So too does giving word to light convey pure intelligence to both travelers: teacher and student.”[br/]– Lu’Dex Pon, Guardian of the Door</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Kir'ko Female</Data></Cell>
+    <Cell><Data ss:Type="String">“L'intelligenza rivela reami di scelta, così come la luce del sole traccia tanti sentieri, rendendo visibili le loro destinazioni. Anche dare parola alla luce trasmette pura intelligenza ad entrambi i viaggiatori: insegnante e studente.”[br/]– Lu’Dex Pon, Gaurdiano della Porta</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Kir'ko Femmina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_FORCES_SUBSKILL_1</Data></Cell>
-    <Cell><Data ss:Type="String">Unit Summon: Ascended Teacher</Data></Cell>
+    <Cell><Data ss:Type="String">Convocazione dell'unità: Insegnate Ascendente</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_6_FORCES_SUBSKILL_2</Data></Cell>
-    <Cell><Data ss:Type="String">Equipment: Radiant Force</Data></Cell>
+    <Cell><Data ss:Type="String">Equipaggiamento§: Forza Radiante</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_8_STRATEGIC_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Colony Sanctuary</Data></Cell>
+    <Cell><Data ss:Type="String">Santuario della Colonia</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_8_STRATEGIC_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Oh! My brethren and sisters, now that we see the truth and partake of this salvific force, does not your heart kindle a fire to share it with all who will receive it? Let us be diligent and gather the faithful pilgrims seeking light.”[br/]– Sigris, Friend of Comets</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Dvar Female</Data></Cell>
+    <Cell><Data ss:Type="String">“Oh! Miei confratelli e sorelle, ora che vediamo la luce e partecipiamo a questa forza salvifica, non accende forse il vostro cuore un fuoco da condividere con tutti quelli che lo riceveranno? Dobbiamo essere diligenti e raccogliere i fedeli pellegrini che cercano luce.”[br/]– Sigris, Amico di Comete</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Dvar Femmina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_10_STRATEGIC_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Ascension</Data></Cell>
+    <Cell><Data ss:Type="String">Ascensione</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_10_STRATEGIC_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Life is no accident, nor game of chance, but the natural consequence of cosmic harmony. The grand harmony played upon the strings that formed reality.”[br/]– Aya Nago, Exalted Transcendent</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Syndicate Female</Data></Cell>
+    <Cell><Data ss:Type="String">“La vita non è incidente, nè  gioco di possibilità, ma la naturale conseguenza dell'armonia cosmica. La maestosa armonia suonata sulle corde che formarono la realtà.”[br/]– Aya Nago, Trascendente Esaltata</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Comitato Femminile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_DOCTRINE_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Neo Evangelicals</Data></Cell>
+    <Cell><Data ss:Type="String">Neo Evangelici</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_4_DOCTRINE_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“We are children of the stars. An honest soul—no matter its origin—is welcome in the light. Come and see.”[br/]– Empress Carminia</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Female</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Empress Carminia</Data></Cell>
+    <Cell><Data ss:Type="String">“Siamo figli delle stelle. Un'anima onesta - qualunque sia la sua origine - è benvenuta nella luce. Vedi e guarda.”[br/]– Imperatrice Carminia</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Femmina</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Imperatrice Carminia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_7_DOCTRINE_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Reign</Data></Cell>
+    <Cell><Data ss:Type="String">Regno Celeste</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">TECH_TREE</Data></Cell>
     <Cell><Data ss:Type="String">SKILLGROUP_7_DOCTRINE_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">“Though we seek to nest in a hive that shines brighter than stars, there will always be isolated souls outside the swarm, kindling a dying spark. Penetrate the darkness. Fly to the lost. Set their sparks ablaze.”[br/]– Pik’Ki Pok, Celestian Missionary,  Kir’Ko Zone Conference</Data></Cell>
-    <Cell ss:Index="5"><Data ss:Type="String">Male</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Kir'ko Male&#10;&#10;Edit: Kir'ko -&gt; Kir'Ko</Data></Cell>
+    <Cell><Data ss:Type="String">“Anche se cerchiamo di nidificare in un alveare che brilla più luminoso, ci saranno sempre anime isolate fuori dallo sciame, attizzando una scintilla morente. Penetra l'oscurità. Vola dai perduti. Infiamma le lore scintille ”[br/]– Pik’Ki Pok, Missionario Celeste,  Kir’Ko Conferenza di zona</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Maschio</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">V.O.: Kir'ko Maschio</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s68" ss:Span="43"/>
    <Row ss:Index="86" ss:AutoFitHeight="0" ss:StyleID="s68">
