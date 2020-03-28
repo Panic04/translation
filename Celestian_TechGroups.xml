@@ -272,213 +272,213 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">GOVERNANCE</Data></Cell>
     <Cell><Data ss:Type="String">GOVERNANCE_SKILL_5_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Cantando le nostre credenze ogni giorno, possiamo disincetivare la maggior parte dei visitatori non desiderati a riavvicinarsi a noi.[br/][br/]I predoni non attaccano più le tue Colonie e le tue basi settoriali, nè oltrepassanoil tuo dominio.</Data></Cell>
+    <Cell><Data ss:Type="String">Cantando le nostre credenze ogni giorno, possiamo disincetivare la maggior parte dei visitatori non desiderati a riavvicinarsi a noi.[br/][br/]I predoni non attaccano più le tue Colonie e le tue basi settoriali, nè oltrepassano il tuo dominio.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAN_UNIT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestian Unit</Data></Cell>
+    <Cell><Data ss:Type="String">Unità Celestiana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAN_UNIT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This is a Celestian unit.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa è una unità Celestiana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Enlightened</Data></Cell>
+    <Cell><Data ss:Type="String">Illuminato</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is Enlightened according to the Celestian ways. It has {EnlightenedMorale} and deals {EnlightenedDam} extra damage against units with Soulburn.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa untià è illuminata seguendo i modi Celestiani. Ha {EnlightenedMorale} e arreca {EnlightenedDam} danno extra contro unità con Anima Bruciante.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
     <Cell><Data ss:Type="String">MODIFIER_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">{EnlightenedDam} damage against units with Soulburn.</Data></Cell>
+    <Cell><Data ss:Type="String">{EnlightenedDam} danno contro unità con Anima Bruciante.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULBLAZE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Soulburn</Data></Cell>
+    <Cell><Data ss:Type="String">Anima Bruciante</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SOULBLAZE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Strength {SoulburnChance} chance to apply [abilityRed]Soulburn[/abilityRed] until end of combat.</Data></Cell>
+    <Cell><Data ss:Type="String">possibilità di forza {SoulburnChance} si applicare [abilityRed]Anima Bruciante[/abilityRed] fino alla conclusione del combattimento.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULBLAZE</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit's soul is on fire, exposing its true essence and weakness. [abilityblue]Enlightened[/abilityblue] units deal {EnlightenedDam} damage against this unit.</Data></Cell>
+    <Cell><Data ss:Type="String">L'anima di quest'unità è infuocata, esponendo la sua vera essenza e debolezze. Unità [abilityblue]Illuminate[/abilityblue] arrecano {EnlightenedDam} danno contro quest unità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LIGHTS_HARMONY</Data></Cell>
     <Cell><Data ss:Type="String">WEAPON_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Lights' Harmony</Data></Cell>
+    <Cell><Data ss:Type="String">Armonia delle Luci</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RADIANT_FORCE</Data></Cell>
     <Cell><Data ss:Type="String">WEAPON_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Radiant Force</Data></Cell>
+    <Cell><Data ss:Type="String">Forza Radiante</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">INFERNO_FISTS</Data></Cell>
     <Cell><Data ss:Type="String">WEAPON_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Inferno Fists</Data></Cell>
+    <Cell><Data ss:Type="String">Pugni Infernali</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">INFERNO_STRIKE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Inferno Strike</Data></Cell>
+    <Cell><Data ss:Type="String">Colpo Infernale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">INFERNO_STRIKE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">A melee attack that unleashes the infernal power of a thousand suns.</Data></Cell>
+    <Cell><Data ss:Type="String">Un attacco corpo a corpo che sprigiona il potere infernale di un migliaglio di soli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">INFERNO_RAVAGE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Inferno Ravage</Data></Cell>
+    <Cell><Data ss:Type="String">Devastazione Infernale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">INFERNO_RAVAGE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">A melee attack that unleashes the infernal power of a thousand suns.</Data></Cell>
+    <Cell><Data ss:Type="String">Un attacco corpo a corpo che sprigiona il potere infernale di un migliaglio di soli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">METEOR_DASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Meteor Dash</Data></Cell>
+    <Cell><Data ss:Type="String">Balzo Meteorico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">METEOR_DASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The Lightbringer jumps towards target ground hex and lands heavily, dealing damage to adjacent units.</Data></Cell>
+    <Cell><Data ss:Type="String">Il Portaluce salta verso l'esagono terrestre bersaglio, recando danno a unità adiacenti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ASSAULT_DASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Assault Dash</Data></Cell>
+    <Cell><Data ss:Type="String">Balzo d'Assalto</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">ASSAULT_DASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The Lightbringer jumps towards target ground hex and lands heavily, dealing damage to adjacent units and gaining {AssaultDashShields} for {AssaultDashTurns}.</Data></Cell>
+    <Cell><Data ss:Type="String">Il Portaluce salta verso l'esagono terrestre bersaglio, recando danno a unità adiacenti e ottenendo {AssaultDashShields} per {AssaultDashTurns}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BONECRUSHER_DASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Bonecrusher Dash</Data></Cell>
+    <Cell><Data ss:Type="String">Balzo Spaccaossa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BURNING_METEOR_DASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Burning Meteor Dash</Data></Cell>
+    <Cell><Data ss:Type="String">Balzo Meteorico Infuocato</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">METEOR_SWOOP</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Meteor Swoop</Data></Cell>
+    <Cell><Data ss:Type="String">Picchiata Meteorica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">METEOR_SWOOP</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The Lightbringer's Harrier swoops towards target ground hex, dealing damage to adjacent units. The unit enters into a [abilityblue]Defense Mode[/abilityblue] afterwards.</Data></Cell>
+    <Cell><Data ss:Type="String">Il Portaluce salta verso l'esagono bersaglio e atterra pesantemente, arreccando danno alle unità adiacenti. Successivamente, l'unità entra in una [abilityblue]Modalità Difesa[/abilityblue].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNWAVERING_WILL</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Unwavering Will</Data></Cell>
+    <Cell><Data ss:Type="String">Volere Incrollabile</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">UNWAVERING_WILL</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit is immune to Psionic Status Effects.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa unità è immune a Effetti di Stato Picionici.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LIGHT_BOLT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Light Bolt</Data></Cell>
+    <Cell><Data ss:Type="String">Fulmine di Luce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LIGHT_BOLT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Ranged Psionic attack.</Data></Cell>
+    <Cell><Data ss:Type="String">Attaco a distanza Psionico.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAL_GUIDANCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Guidance</Data></Cell>
+    <Cell><Data ss:Type="String">Guida Celeste</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAL_GUIDANCE</Data></Cell>
     <Cell><Data ss:Type="String">MODIFIER_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Attacks have {CelestialAccuracy} accuracy.</Data></Cell>
+    <Cell><Data ss:Type="String">Gli attacchi hanno precisione  {CelestialAccuracy}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">CELESTIAL_GUIDANCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target friendly unit receives [abilityblue]Guidance[/abilityblue], gaining {CelestialGuidanceAccuracy} accuracy and is considered [abilityblue]Enlightened[/abilityblue] until end of combat. If this ability targets an already Enlightened unit, they receive an additional {CelestialGuidanceMorale}.[br/]Does not work on Mindless units.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio amica riceve [abilityblue]Guida[/abilityblue], ottenendo precisione {CelestialGuidanceAccuracy} ed è considereta  [abilityblue]Illuminata[/abilityblue] fino alla fine del combattimento. Se questà abilità bersaglia una unità già Illuminata, essa riceve un addizionale  {CelestialGuidanceMorale}.[br/]Non funziona con unità Senzamente.</Data></Cell>
    </Row>
    <Row ss:Index="71" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">REGENERATIVE_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Regenerative Light</Data></Cell>
+    <Cell><Data ss:Type="String">Luce Rigenerativa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">REGENERATIVE_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target unit gains [abilityblue]Psionic Regeneration[/abilityblue], healing it for {RegenerativeLightHP} at the end of each turn for {RegenerativeLightDuration}. The unit is dispelled of all negative status effects when this ability is used.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'unità bersagliata ottiene [abilityblue]Rigenerazione Psionica[/abilityblue], Guarendola per {RegenerativeLightHP} aalla fine di ogni turno per {RegenerativeLightDuration}. L'unità perderà tutti gli effetti di stato negativi quando questa unità è usato.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BLINDING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Blinding Light</Data></Cell>
+    <Cell><Data ss:Type="String">Luce Rigenerativa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BLINDING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Use starlight to attack in a {hexrad} hex radius.</Data></Cell>
+    <Cell><Data ss:Type="String">Usa la luce stellare per attaccare in un raggio esagonale di {hexrad}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DECEIVING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Deceiving Light</Data></Cell>
+    <Cell><Data ss:Type="String">Luce Ingannevole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DECEIVING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Use starlight to attack in a {hexrad} hex radius.</Data></Cell>
+    <Cell><Data ss:Type="String">Usa la luce stellare per attaccare in un raggio esagonale di {hexrad}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RADIANT_BLAST</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Radiant Blast </Data></Cell>
+    <Cell><Data ss:Type="String">Esplosione Radiante</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RADIANT_BLAST</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Ranged Psionic attack.</Data></Cell>
+    <Cell><Data ss:Type="String">Attacco Psionico a Distanza.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PATH_OF_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Path of Light</Data></Cell>
+    <Cell><Data ss:Type="String">Cammino di Luce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">PATH_OF_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The Ascended Teacher guides those who join them in battle along the Path of Light. All friendly units in the army gain [abilityblue]Enlightened[/abilityblue] and [abilityblue]Resurgence[/abilityblue].[br/]Doesn't work on Ascended Teachers and Mindless Units.</Data></Cell>
+    <Cell><Data ss:Type="String">L'Insegnante Ascendende guida coloro che si uniscono a lui in battaglia lungo il Sentiero di Luce. Tutte le unità amiche nell'armata ottengono [abilityblue]Illuminato[/abilityblue] e [abilityblue]Rinascita[/abilityblue].[br/]Non funziona con Insegnante Ascendenti e Unità Senzamente.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COMPELLING_PRESENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Compelling Presence</Data></Cell>
+    <Cell><Data ss:Type="String">Presemza Avvincente</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">COMPELLING_PRESENCE</Data></Cell>
