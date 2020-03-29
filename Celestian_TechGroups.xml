@@ -293,7 +293,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Questa untià è illuminata seguendo i modi Celestiani. Ha {EnlightenedMorale} e arreca {EnlightenedDam} danno extra contro unità con Anima Bruciante.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa untià è illuminata seguendo i modi Celestiani. Ha {EnlightenedMorale} e arreca {EnlightenedDam} di danno extra contro unità con Anima Bruciante.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
@@ -313,7 +313,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULBLAZE</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">L'anima di quest'unità è infuocata, esponendo la sua vera essenza e debolezze. Unità [abilityblue]Illuminate[/abilityblue] arrecano {EnlightenedDam} danno contro quest unità.</Data></Cell>
+    <Cell><Data ss:Type="String">L'anima di quest'unità è infuocata, esponendo la sua vera essenza e debolezze. Unità [abilityblue]Illuminate[/abilityblue] arrecano {EnlightenedDam} di danno contro quest unità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LIGHTS_HARMONY</Data></Cell>
@@ -483,312 +483,312 @@
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">COMPELLING_PRESENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target enemy unit has a {strengthmindcontrol} strength chance to be [abilityred]Mind Controlled[/abilityred], increasing to a {strengthmindcontrolimprov} strength chance if the target is affected by [abilityred]Soulburn[/abilityred]. If they survive until end of combat, they are turned into a colonist. If this fails, the unit takes {PsionicDamage} damage.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio nemica ha una porbilità di forza {strengthmindcontrol} di essere [abilityred]Controllato Mentalmente[/abilityred],  una possibilità di forza {strengthmindcontrolimprov} se il bersaglio è affetto da [abilityred]Anima Bruciante[/abilityred]. Se sopravvive fino alla fine del combattimento, è trasformata in un colone. Se ciò fallisce l'unità riceve {PsionicDamage} di danno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COMPELLING_PRESENCE</Data></Cell>
     <Cell><Data ss:Type="String">EVENT</Data></Cell>
-    <Cell><Data ss:Type="String">An enemy unit has laid down their arms and joined one of your colonies.</Data></Cell>
+    <Cell><Data ss:Type="String">Una unità ha deposto le armi e si è unita a una tua colonia</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAL_RADIANCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Radiance</Data></Cell>
+    <Cell><Data ss:Type="String">Splendore Celeste</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">CELESTIAL_RADIANCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">A surge of pure Celestial light heals all Enlightened units for {RadianceHeal} Hit Points and revives friendly units in a {CelestialRadianceRadius} hex radius area. The healing will be stronger for each friendly Enlightened unit in the battle.</Data></Cell>
+    <Cell><Data ss:Type="String">Un impeto di Luce Celeste cura tutte le unità Illuminate per {RadianceHeal} Punti Ferita e rianima le unità amiche in una area di raggio di esagoni {CelestialRadianceRadius}. La guarigione sarà più forte per ogni unità amica Illuminata nella battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAL_WRATH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Wrath</Data></Cell>
+    <Cell><Data ss:Type="String">Ira Celeste</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAL_WRATH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">A surge of Celestial Wrath courses down from the heavens, damaging all enemy units in a {CelestialWrathRadius} hex radius area. The damage will increase for each friendly Enlightened unit in the battle.</Data></Cell>
+    <Cell><Data ss:Type="String">Un impeto di Ira Celeste fluisce giù dai cieli, danneggiando tutte le unitò in un'area di raggio di esagoni {CelestialWrathRadius}. Il danno aumenterà per ogni unità amica Illuminita nella battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED_DAM_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Enlightened: Damage</Data></Cell>
+    <Cell><Data ss:Type="String">Illuminato: Danno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ENLIGHTENED_DAM_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">{EnlightenedDamageModifier} for each Enlightened unit in battle. Stacks up to 5 times.</Data></Cell>
+    <Cell><Data ss:Type="String">{EnlightenedDamageModifier} per ogni unità Illuminita in battaglia. S'accumula fino a 5 volte.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED_HEAL_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Enlightened: Healing</Data></Cell>
+    <Cell><Data ss:Type="String">Illuminato: Guarigione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ENLIGHTENED_HEAL_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">{EnlightenedHealModifier} for each Enlightened unit in battle. Stacks up to 5 times.</Data></Cell>
+    <Cell><Data ss:Type="String">{EnlightenedHealModifier} per ogni unità Illuminita in battaglia. S'accumula fino a 5 volte.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CLEANSING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Cleansing Light</Data></Cell>
+    <Cell><Data ss:Type="String">Luce Detergente</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CLEANSING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target unit heals for {CleansingLightHP} and is dispelled of all negative status effects.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio si cura per {CleansingLightHP} e tutti gli effetti di stato negativi sono dissipati.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CLEANSE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Cleanse</Data></Cell>
+    <Cell><Data ss:Type="String">Pulizia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CLEANSE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target friendly unit is dispelled of negative status effects and heals for {CleanseHeal}. This heals for an additional {CleanseAddedHeal} for each [abilityblue]Enlightened[/abilityblue] unit in battle.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio amica viene ripulita di tutti gli effetti di stato negativi e si cura per {CleanseHeal}. Questo cura per un addizionale {CleanseAddedHeal} per ogni unità [abilityblue]Illuminita[/abilityblue] nella battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RESURGENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Resurgence </Data></Cell>
+    <Cell><Data ss:Type="String">Rinascita </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">RESURGENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Utilize Psionic energy to pre-emptively ward a friendly living unit from death. If this battle results in victory, the target unit is revived after combat ends if it died during combat.</Data></Cell>
+    <Cell><Data ss:Type="String">Utilizza l'energia Psionica per preventivamente per proteggere una unità amica dalla morte. Se questa battaglia è vinta, l'unità bersaglio è rianimata dopo che il combattimento termina se è morta in battaglia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NEGATE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Negate</Data></Cell>
+    <Cell><Data ss:Type="String">Negare</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">NEGATE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">For {NegateTurns}, target friendly unit is immune to all damage, but they cannot move or use abilities during this time.  </Data></Cell>
+    <Cell><Data ss:Type="String">Per {NegateTurns}, l'unità bersaglio amica è immune a tutto il danno, ma non può muoversi  o usare abilità nel mentre.  </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NEGATE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION_MOD</Data></Cell>
-    <Cell><Data ss:Type="String">Unit is immune to all damage, but they cannot move or use abilities.  </Data></Cell>
+    <Cell><Data ss:Type="String">L'unità è immune a tutto il danno, ma non può muoversi  o usare abilità nel mentre.  </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPIRIT_FLASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Spirit Flash</Data></Cell>
+    <Cell><Data ss:Type="String">Spirito Lampo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SPIRIT_FLASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target non-Mindless enemy's spirit flashes brightly, causing [abilityred]Soulburn[/abilityred] and [abilityred]High Impact Stagger[/abilityred] to itself and all enemy units in a 2 hex radius around it.</Data></Cell>
+    <Cell><Data ss:Type="String">Lo spirito dell'unità nemica non-Senzamente lampeggia brillantemente, causando [abilityred]Anima Bruciante[/abilityred] e [abilityred]Sfalsamento ad Alto Impatto[/abilityred] a se stessa e tutte le unità nemiche in raggio di 2 esagoni intorno ad essa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">REPRIEVE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Area of Reprieve</Data></Cell>
+    <Cell><Data ss:Type="String">Area di Grazia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">REPRIEVE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Block all Tactical Operations and unit damaging abilities for {ReprieveTurns} combat turn. Enlightened units heal for {ReprieveHP}.</Data></Cell>
+    <Cell><Data ss:Type="String">Blocca tutte le Operazioni Tattiche e le abilità che danneggiano unità per {ReprieveTurns} turni di combattimento. Unità Illluminate si curano per {ReprieveHP}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Blessing of Starlight</Data></Cell>
+    <Cell><Data ss:Type="String">Benedizione della Luce Stellare</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target friendly army heals to {BlessingofStarlightHP}. They also gain Stagger Resistance and {accuracy} accuracy until the end of their next battle.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'armata bersaglio si cura a {BlessingofStarlightHP}. Ottiene anche Resistenza allo Sfalsamento e {accuracy} precisione fino alla fine della sua prossima battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Your army has been successfully blessed by Starlight. Their accuracy is increased and they have more stagger resistance until the end of their next battle. They have also recovered all their [hp/]</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">La tua armata è stata benedetta con successo dalla Luce Stellare. La loro precisone è aumentata e hanno una maggiore Resistenza allo Sfasamento fino alla fine della sua prossima armata. Ha anche recuperato tutti i suoi [hp/]</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_EFFECT</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Your army has been healed and gained a boost in accaracy and Stagger Resistance until the end of their next battle.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">La tua armata è stata armata è stata curata e ha ottenuto un bonus in precisione e Resistenza allo Sfasamento fino alla fine della loro prossima battaglia.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Soulfire</Data></Cell>
+    <Cell><Data ss:Type="String">Fuocanima</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target enemy army takes {SoulfireDam} damage and suffers [abilityred]Soulburn[/abilityred] whenever they engage in battle for {SoulfireTurn}. </Data></Cell>
+    <Cell><Data ss:Type="String">Lìarmata nemica bersaglio prende {SoulfireDam} di danno e soffre di [abilityred]Anima Bruciante[/abilityred] quando partecipano alla battaglia per {SoulfireTurn}. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our Soulfire operation was successful - the enemy units in the targeted army suffered {SoulfireDamage} damage and are afflicted by [abilityRed]Soulburn[/abilityRed] for {SoulfireTurn}.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">La nostra operazione Fuocanima è riuscita - le unità nemiche nell'armata bersagliata soffrono {SoulfireDamage} e sono afflitte da [abilityRed]Anima Bruciante[/abilityRed] per {SoulfireTurn}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Soulfire was partially resisted by the enemy army. The army's units took {SoulfireFailureDamage} damage, but they are not suffering from [abilityred]Soulburn[/abilityred].</Data></Cell>
+    <Cell><Data ss:Type="String">Fuocanima è stata parzialmente resisitita dall'armata nemica. Le unità dell'armata hanno preso {SoulfireFailureDamage} di danno, but they are not suffering from [abilityred]Soulburn[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">A Celestian Soulfire attack was launched against one of our armies! The army took {SoulfireDamage} and will be afflicted with [abilityred]Soulburn[/abilityred] whenever they enter battle during the next {SoulfireTurn}.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Un attaco Fuocanima Celsete è stato lanciato contro una delle nostre armate! L'armata ha preso {SoulfireDamage} di danno e sarà afflitta con [abilityred]Anima Bruciante[/abilityred] se entra in battaglia durante il {SoulfireTurn}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">A Celestian Soulfire attack was launched against one of our armies. Luckily, it was detected before it could take full effect and the damage is minimized. The army took {SoulfireFailureDamage} but is otherwise unaffected.</Data></Cell>
+    <Cell><Data ss:Type="String">Un attaco Fuocanima Celsete è stato lanciato contro una delle nostre armate. Fortunatamente, è stata rilevata prima che potesse avere un effetto totale e il danno è minimizzato. L'armata ha preso {SoulfireFailureDamage} ma non è danneggiata in nessun altro modo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">EFFECT_DAMAGE</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target army takes damage equal to {Damage} of their [hp/]</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'armata bersaglio prende un danno pari al {Damage} dei suoi [hp/]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">EFFECT_SOULBURN</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target army suffers from [abilityred]Soulburn[/abilityred] for {turns}</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'armata bersaglio soffre di [abilityred]Anima Bruciante[/abilityred] per {turns}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION_FAIL</Data></Cell>
-    <Cell><Data ss:Type="String">On failure, the target takes {Damage} damage but is not afflicted with [abilityred]Soulburn[/abilityred].</Data></Cell>
+    <Cell><Data ss:Type="String">In caso di fallimento, il bersaglio prende {Damage} di danno ma non è afflitto da [abilityred]Anima Bruciante[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Ward of Righteousness</Data></Cell>
+    <Cell><Data ss:Type="String">Protettore della Giustizia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Spawns a [abilityred]Veil of Tranquility[/abilityred] in the target sector. This hazard affects the economy and units in this sector. It also has a tactical combat effect in the sector.</Data></Cell>
+    <Cell><Data ss:Type="String">Genera un [abilityred]Velo di tranquillità[/abilityred] nel settore bersaglio. Questo pericolo affligge l'economia e le untià nel settore. Ha anche un effetto sul cambattimento tattico nel settore.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">We successfully adjusted the trajectory of the comet and it crashed in the targeted sector.</Data></Cell>
+    <Cell><Data ss:Type="String">Siamo riusciti a deviare la traiettoria della cometa ed si è schiantata nel settore bersaglio.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Our Psionics were incapable of changing the comet's trajectory. As a result of this, all of the Psionic energy used was released in the target sector, healing all units there.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri Psionici sono riusciti a deviare la traiettoria della cometa. Come risultato tutta l'energia Psionica utilizzata è stata rilasciata nel settore bersaglio, curando tutte le unità presenti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">The enemy has crashed a comet into a sector near some of our troops, making them waver in awe of the Celestian cause.</Data></Cell>
+    <Cell><Data ss:Type="String">Il nemico ha deviato una cometa in un settore vicicono alle nostre truppe, vacillare nella soggezzione per la causa Celestiana.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">The Celestians failed to pull a comet down towards the planetary surface. This resulted in a Psionic explosion that healed all units in the sector.</Data></Cell>
+    <Cell><Data ss:Type="String">I Celestiani hanno fallito a lanciare una cometa verso la superfice planetaria. Ciò è risultato in una esplosione Spionica che ha curato tutte le unità in questo settore.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILTY_EFFECT</Data></Cell>
-    <Cell><Data ss:Type="String">Celestian units healed to full.</Data></Cell>
+    <Cell><Data ss:Type="String">Unità Celestiane guarite a pieno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION_FAIL</Data></Cell>
-    <Cell><Data ss:Type="String">On failure, all units in the sector are fully healed.</Data></Cell>
+    <Cell><Data ss:Type="String">In caso di fallimento tutte  le unità nel settore sono curate completamente.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Futility of War </Data></Cell>
+    <Cell><Data ss:Type="String">Futilità della Guerra </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Unwavering faith in the face of bloodshed discourages your enemies to engage in war. The targeted player cannot use any Casus Belli for {turns}.</Data></Cell>
+    <Cell><Data ss:Type="String">La fede incrollabile alla vista di spargimento di sangue scoraggia i tuoi nemici ad entrare in guerra. Il giocatore bersaglio non può usare nessun Casus Belli per {turns}.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_EFFECT</Data></Cell>
-    <Cell><Data ss:Type="String">The targeted player is unable to use any Casus Belli.</Data></Cell>
+    <Cell><Data ss:Type="String">Il giocatore bersaglio non può usare nessun Casus Belli</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_UNDETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries report that our enemies are realizing the futility of fighting the Celestian Order and see no reason to attack us.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missionari riferiscono che i nostri nemici stanno realizzando la futilità di combattere l'Ordine Celestiano e non vedono alcuna ragione per attaccarci.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries have managed to discourage our enemies to go to war against us, but they are aware that we are behind this coercion.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missonari sono riusciti a scoraggiare i nostri nemici dall'andare in guerra contro di noi, ma essi sono al corrente che noi siamo dietro questa coercizione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_UNDETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries were unsuccessful in discouraging the populace from wanting to go to war against us. Our involvement remains hidden.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missoniari non sono riusciti a scoraggiare i nostri nemici dall'andare in guerra contro di noi. La nostra partecipazione rimane nascosta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries were unsuccessful in discouraging the populace from wanting to go to war against us. Unfortunately, our involvement in this tactic has been revealed.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missoniari non sono riusciti a scoraggiare i nostri nemici dall'andare in guerra contro di noi. Sfortunatamente, essi sono al corrente che noi siamo dietro questa tattica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our enemies have managed to talk our population out of wanting to go to war. We have sources on who was behind this. Surely this cannot go unanswered…</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri nemici sono riusciti a convinvere la nostra popolazione a non andare in guerra. Abbiamo degli informatori su chi sia stato. Sicuramente questo evento non può essere tralasciato…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our enemies tried to talk our population out of wanting to go to war but failed to do so. We have sources on who was behind this. Surely this cannot go unanswered…</Data></Cell>
+    <Cell><Data ss:Type="String">I nsotri nemici hanno provato a convincere la nostra popolazione a non andare in guerra ma hanno fallito nel loro intento. Abbiamo degli informatori su chi sia stato. Sicuramente questo evento non può essere tralasciato…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Sway Ideology </Data></Cell>
+    <Cell><Data ss:Type="String">Influenza Ideologia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Lowers the targeted player's standing with his most renowned faction by {FactionRelations} points and adds the same amount to your relation level with that faction.[br/][br/]On failure, both players receive {FailRelations} points.</Data></Cell>
+    <Cell><Data ss:Type="String">Abbassa la posizione del giocatore bersaglio con la sua fazione più rinomata di {FactionRelations} punti e aggiunge la stessa quantità al tuo livello di relazione con quella fazione.[br/][br/]In caso di fallimento, entrambi i giocatori ricevono {FailRelations} punti.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_UNDETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our diplomats have successfully managed to sway the opinion of one of our enemy's allies, and have solidified their opinion of us at the same time.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri diplomatici sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e hanno solidifacato la loro opinione su di noi allo stesso tempo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our diplomats have successfully managed to sway the opinion of one of our enemy's allies, and have solidified their opinion of us at the same time. Unfortunately, our involvement in this matter has been discovered.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri diplomatici sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e hanno solidifacato la loro opinione su di noi allo stesso tempo. Sfortunatamente, la nostra partecipazione in questa operazione è stata scoperta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_UNDETECTED</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our diplomats were unsuccessful in swaying the opinion of one of our enemy's allies, and the resulting confusion ended up benefiting both sides. Our involvement in this matter was not discovered.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">I nostri diplomatici non sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e la confusione risultante ha beneficiato entrambe le parti. la nostra partecipazione in questa operazione non è stata scoperta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_DETECTED</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our diplomats were unsuccessful in swaying the opinion of one of our enemy's allies, and the resulting confusion ended up benefiting both sides. Unfortunately, our involvement in this matter was discovered.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">I nostri diplomatici non sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e la confusione risultante ha beneficiato entrambe le parti. la nostra partecipazione in questa operazione  è stata scoperta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Enemy diplomats have been discovered poisoning the minds of our allies, and our relations with that ally have soured because of this. Our agents have managed to trace this nefarious act back to an enemy state.</Data></Cell>
+    <Cell><Data ss:Type="String">Diplomatici nemici sono stati scoperti mentre avvellenavano le meinti dei nostri alleati, e la nostra relazione con l'alleato si sono perciò indebbolite. I nostri agenti sono riusciti a traccaire quest'atto nefario fino ad uno stato nemico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Enemy diplomats have been discovered poisoning the minds of our allies. However, our ties to this ally have proven strong and the enemy's words ended up helping our cause. Our agents have managed to trace this nefarious attempt back to an enemy state.</Data></Cell>
+    <Cell><Data ss:Type="String">Diplomatici nemici sono stati scoperti mentre avvellenavano le meinti dei nostri alleati. Le nostre relazioni con questo alleato si sono dimostrate forti e le parole del nemico sono finite con l'aiutare la nostra causa. I nostri agenti sono riusciti a traccaire quest'atto nefario fino ad uno stato nemico.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SANCTUARY_OF_THE_STARS</Data></Cell>
