@@ -793,179 +793,179 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SANCTUARY_OF_THE_STARS</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Sanctuary of the Stars</Data></Cell>
+    <Cell><Data ss:Type="String">Santuario Stellare</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SANCTUARY_OF_THE_STARS</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Target owned colony cannot be targeted by harmful effects. Friendly armies within this colony's domain cannot be targeted by harmful operations, and enemies cannot use Tactical Operations within the colony's domain.</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">La colonia bersaglio posseduta non puo' essere bersagliata da effetti danneggianti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SANCTUARY_OF_THE_STARS</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">The Celestial Light shines upon our colony, spreading happiness and morale throughout its sectors.</Data></Cell>
+    <Cell><Data ss:Type="String">La Luce Stellare brilla sulla nostra colonia, diffondendo felicità e morale attraverso i suoi settori.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SANCTUARY_OF_THE_STARS</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_EFFECT</Data></Cell>
-    <Cell><Data ss:Type="String">Colony is now protected from other player ops and they cannot use tactical ops in this territory.</Data></Cell>
+    <Cell><Data ss:Type="String">La Colonia è ora protetta dagli operatori degli altri giocatori e non possono usare operatori tattici in questo territorio.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COMPELLING_CAUSE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Compelling Cause </Data></Cell>
+    <Cell><Data ss:Type="String">Causa Avvincente </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">COMPELLING_CAUSE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target an enemy colony and compel them to your cause. Summon two Tier 1 or Tier 2 units from the target faction, spawning them adjacent to the enemy colony.</Data></Cell>
+    <Cell><Data ss:Type="String">Bersaglia una colonia nemica e forzala alla tua causa. Evoca 2 unità Rango 1 o Rango 2 dalla fazione bersagliata, convocandole adiacentemente alla colonia nemica.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">COMPELLING_CAUSE</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries have been successful in converting an enemy military unit to the Path of Light. They have fled the colony and are now under our control.</Data></Cell>
+    <Cell><Data ss:Type="String">I nosti missionari hanno convertito un'unità nel Patto di Luce con successo. Hanno lasciato la colonia e sono ora sotto il nostro controllo. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">COMPELLING_CAUSE</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries have been unsuccessful in trying to convert an enemy military unit. The attempt has caused civil unrest in the colony.</Data></Cell>
+    <Cell><Data ss:Type="String">I nosti missionari NON hanno convertito un'unità nel Patto di Luce con successo. Il tentativo ha causato disturbo comune nella colonia. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">COMPELLING_CAUSE</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">Enemy missionaries have converted one of our military units to join their cause. A unit has left the colony, appearing outside its walls as a new enemy.</Data></Cell>
+    <Cell><Data ss:Type="String">Dei missionari nemici hanno convertito una delle nostre unità militari alla loro causa. Un'unità ha lasciato la colonia, spuntando dall'altra parte delle mura come un nuovo nemico.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">COMPELLING_CAUSE</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Enemy missionaries have tried to convert one of our military units to join their cause. They were unsuccessful, but their attempt has caused civil unrest in the colony.</Data></Cell>
+    <Cell><Data ss:Type="String">Dei missionari nemici hanno tentato di convertire una delle nostre unità militari alla loro causa. Non hanno avuto successo, ma il loro tentativo ha causato disturbo comune nella colonia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Light of Truth</Data></Cell>
+    <Cell><Data ss:Type="String">Luce della Verità</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">VICTORY_CONDITION</Data></Cell>
-    <Cell><Data ss:Type="String">Wash the entire planet in the Light of Truth, enlightening them to the Celestian way.</Data></Cell>
+    <Cell><Data ss:Type="String">Pulisci l'intero pianeta nella Luce della Verità, illuminandoli alla maniera dei Celestiani.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">LEVEL_1_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Each turn, there is a {LightChance}% chance that a colonist is removed and joins the Celestian player's nearest colony.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ogni turno, c'è una possibilità di {LightChance}% che un colone sia rimosso ed entri la colonia Celestiana del giocatore piu' vicina.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">LEVEL_2_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Each turn, there is a {LightChance}% chance that a colonist is removed and joins the Celestian player's nearest colony.[br/]All non-Celestian player units gain [abilityred]Soulburn[/abilityred] in combat.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ogni turno, c'è una possibilità del {LightChance}% che un colone sia rimosso ed entri la colonia Celestiale del giocatore più vicina.[br/] Tutte le unità non celestiane del giocatore ottengono [abilityred]Soulburn[/abilityred] quando sono in combattimento.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">LEVEL_3_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Each turn, there is a {LightChance}% chance that a colonist is removed and joins the Celestian player's nearest colony.[br/]All non-Celestian player units gain [abilityred]Soulburn[/abilityred] in combat.[br/]All Celestian player units heal for {LightHeal}% of their maximum [hp/] each round in combat.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ogni turno, c'è una possibilità del {LightChance}% che un colone sia rimosso ed entri la colonia Celestiale del giocatore più vicina.[br/] Tutte le unità non celestiane del giocatore ottengono [abilityred]Anima Bruciante[/abilityred]in combattimento.[br/] Tutte le unità Celestiane del giocatore si curano del {LightHeal}% dei loro [hp/] massimi ad ogni turno di combattimento.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">COLONIST_STOLEN</Data></Cell>
-    <Cell><Data ss:Type="String">A colonist from {STR_cityName} has deserted!</Data></Cell>
+    <Cell><Data ss:Type="String">Un colone da {STR_cityName} ha abbandonato la colonia!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DOOMSDAY_WEAPON</Data></Cell>
     <Cell><Data ss:Type="String">COLONIST_ACQUIRED</Data></Cell>
-    <Cell><Data ss:Type="String">An enemy colonist has converted and joined {STR_cityName}!</Data></Cell>
+    <Cell><Data ss:Type="String">Un colone nemico si è convertito e si è unito a {STR_cityName}!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">LIGHT_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The Light of Truth rejuvenates this unit. They heal for {LightHeal}% of their maximum [hp/] at the start of each turn.</Data></Cell>
+    <Cell><Data ss:Type="String">La Luce della Verità  ringiovanisce questa unità. Si cura del {LightHeal}% dei suoi [hp/] massimi all'inizio di ogni turno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DECLARATION_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Declaration of Truth</Data></Cell>
+    <Cell><Data ss:Type="String">Dichiarazione di Verità</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">DECLARATION_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Wash target non-Celestian enemy colony and its colonists in Psionically-enforced Truth for {INT_duration}. This increases in strength as you build more Beacons of Truth.</Data></Cell>
+    <Cell><Data ss:Type="String">Pulisci la colonia nemica non Celestiana bersagliata e i suoi coloni nella Verità Psionicamente obbligata per {INT_duration}. Questo incrementa ogni qual volta costruisci più Fari della Verità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DECLARATION_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">We succeeded transmitting the truth to their colony using our beacons.</Data></Cell>
+    <Cell><Data ss:Type="String">Abbiamo avuto successo nel trasmettere la verità alla loro colonia attraverso i nostri fari.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DECLARATION_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Something blocked us from enlightening the colonists to the truth.</Data></Cell>
+    <Cell><Data ss:Type="String">Qualcosa ci ha bloccato dall'illuminare i coloni alla verità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">DECLARATION_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our enemy succeeded in sending Psionic messages to our colonists claiming they know the &quot;truth&quot;.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Il nemico ha avuto successo nel mandare messaggi Psionici ai nostri coloni pretendendo di sapere la &quot;verità&quot; </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">DECLARATION_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our enemy failed their attempt to Psionically brainwash our colonists.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Il nostro nemico ha fallito il tentativo di lavare il cervello Psionicamente ai nostri coloni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FINAL_REVELATION</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Final Revelation</Data></Cell>
+    <Cell><Data ss:Type="String">Rivelazione Finale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FINAL_REVELATION</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Expose the entire planet to the revelations brought on by the Light of Truth, showing them the Celestian way.[br/][br/]Requires Declaration of Truth level 3.[br/]</Data></Cell>
+    <Cell><Data ss:Type="String">Esponi l'intero pianeta alle rivelazioni portate dalla Luce della Verità, mostrandogli la maniera Celestiana.[br/][br/]Richiede Dichiarazione di Verità livello 3.[br/]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FINAL_REVELATION</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">The Light of Truth bathes the world in its warm embrace. Soon there will no war, no conflict, only peace, for everyone, forever.</Data></Cell>
+    <Cell><Data ss:Type="String">La Luce della Verità sciaqua il mondo nel suo tiepido abbraccio. Presto non ci sarà più guerra, nessun conflitto, solo pace, per tutti, per sempre.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BEACON_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Beacon of Truth</Data></Cell>
+    <Cell><Data ss:Type="String">Faro della Verità</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">BEACON_OF_TRUTH</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The Beacon of Truth unlocks the Declaration of Truth Doomsday Weapon. Each additional Beacon of Truth that you build increases the level of the weapon, making it stronger.[br/][br/]Only one Beacon of Truth may be built per colony.</Data></Cell>
+    <Cell><Data ss:Type="String">Il Faro della Verità sblocca l'Arma del Giorno del Giudizio Dichiarazione di Verità. Ogni Faro addizionale che costruisci incrementa il livello dell'arma, rendendola più potente.[br/][br/]Puo' essere costruito solo un Faro della Verità per colonia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PSIONIC_REGENERATION</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Psionic Regeneration</Data></Cell>
+    <Cell><Data ss:Type="String">Rigenerazione Psionica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">PSIONIC_REGENERATION</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">This unit regenerates {RegenerativeLightHP} at the end of its turn.</Data></Cell>
+    <Cell><Data ss:Type="String">Quest'unità si rigenera di {RegenerativeLightHP} alla fine del suo turno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TRUE_ASCENDENCY</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">True Ascendancy</Data></Cell>
+    <Cell><Data ss:Type="String">Vera Ascendenza</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">TRUE_ASCENDENCY</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">The will of the Star manifests in ethereal form.[br/]Summons an Ascended Teacher under your command.</Data></Cell>
+    <Cell><Data ss:Type="String">La volontà della Stella si manifesta nella sua forma eterea.[br/]Evoca un Insegnante Asceso sotto il tuo comando.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:Index="177" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_INITIAL_NOTIFICATION</Data></Cell>
     <Cell><Data ss:Type="String">GENERIC</Data></Cell>
-    <Cell><Data ss:Type="String">Victory Condition: Final Revelation</Data></Cell>
+    <Cell><Data ss:Type="String">Condizione di Vittoria: Rivelazione Finale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s70"><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_CAPTURED</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">YOU</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">One of our Beacons of Truth has been captured!</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Uno dei nostri Fari della Verità è stato catturato!</Data></Cell>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s65"/>
@@ -973,7 +973,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s70"><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_LOST</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">YOU</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">You have lost a Beacon of truth!</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Hai perso un Faro della Verità!</Data></Cell>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s65"/>
@@ -981,7 +981,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s70"><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_LOST</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">PLAYER</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">{STR_Player} has lost a Beacon of Truth!</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">{STR_Player} ha perso un Faro della Verità!</Data></Cell>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s65"/>
@@ -989,7 +989,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s70"><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_LOST_GLOBAL</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">YOU</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">You have lost a Beacon of Truth. Our attempt at a Final Revelation has been foiled!</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Hai perso un Faro della Verità. Il loro tentativo di Rivelazione Finale è stato sventato!</Data></Cell>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s65"/>
@@ -997,7 +997,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s70"><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_LOST_NOT_GLOBAL</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">PLAYER</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">{STR_Player} has lost a Beacon of Truth. Their attempt at Final Revelation has been foiled!</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">{STR_Player} ha perso un Faro della Verità. Il loro tentativo di Rivelazione Finale è stata sventata!</Data></Cell>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s70"/>
     <Cell ss:StyleID="s65"/>
