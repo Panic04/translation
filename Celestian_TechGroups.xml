@@ -651,144 +651,144 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">EFFECT_DAMAGE</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target army takes damage equal to {Damage} of their [hp/]</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'armata bersaglio prende un danno pari al {Damage} dei suoi [hp/]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">EFFECT_SOULBURN</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target army suffers from [abilityred]Soulburn[/abilityred] for {turns}</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'armata bersaglio soffre di [abilityred]Anima Bruciante[/abilityred] per {turns}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION_FAIL</Data></Cell>
-    <Cell><Data ss:Type="String">On failure, the target takes {Damage} damage but is not afflicted with [abilityred]Soulburn[/abilityred].</Data></Cell>
+    <Cell><Data ss:Type="String">In caso di fallimento, il bersaglio prende {Damage} di danno ma non è afflitto da [abilityred]Anima Bruciante[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Ward of Righteousness</Data></Cell>
+    <Cell><Data ss:Type="String">Protettore della Giustizia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Spawns a [abilityred]Veil of Tranquility[/abilityred] in the target sector. This hazard affects the economy and units in this sector. It also has a tactical combat effect in the sector.</Data></Cell>
+    <Cell><Data ss:Type="String">Genera un [abilityred]Velo di tranquillità[/abilityred] nel settore bersaglio. Questo pericolo affligge l'economia e le untià nel settore. Ha anche un effetto sul cambattimento tattico nel settore.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">We successfully adjusted the trajectory of the comet and it crashed in the targeted sector.</Data></Cell>
+    <Cell><Data ss:Type="String">Siamo riusciti a deviare la traiettoria della cometa ed si è schiantata nel settore bersaglio.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Our Psionics were incapable of changing the comet's trajectory. As a result of this, all of the Psionic energy used was released in the target sector, healing all units there.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri Psionici sono riusciti a deviare la traiettoria della cometa. Come risultato tutta l'energia Psionica utilizzata è stata rilasciata nel settore bersaglio, curando tutte le unità presenti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS</Data></Cell>
-    <Cell><Data ss:Type="String">The enemy has crashed a comet into a sector near some of our troops, making them waver in awe of the Celestian cause.</Data></Cell>
+    <Cell><Data ss:Type="String">Il nemico ha deviato una cometa in un settore vicicono alle nostre truppe, vacillare nella soggezzione per la causa Celestiana.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">The Celestians failed to pull a comet down towards the planetary surface. This resulted in a Psionic explosion that healed all units in the sector.</Data></Cell>
+    <Cell><Data ss:Type="String">I Celestiani hanno fallito a lanciare una cometa verso la superfice planetaria. Ciò è risultato in una esplosione Spionica che ha curato tutte le unità in questo settore.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILTY_EFFECT</Data></Cell>
-    <Cell><Data ss:Type="String">Celestian units healed to full.</Data></Cell>
+    <Cell><Data ss:Type="String">Unità Celestiane guarite a pieno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">VEIL_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION_FAIL</Data></Cell>
-    <Cell><Data ss:Type="String">On failure, all units in the sector are fully healed.</Data></Cell>
+    <Cell><Data ss:Type="String">In caso di fallimento tutte  le unità nel settore sono curate completamente.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Futility of War </Data></Cell>
+    <Cell><Data ss:Type="String">Futilità della Guerra </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Unwavering faith in the face of bloodshed discourages your enemies to engage in war. The targeted player cannot use any Casus Belli for {turns}.</Data></Cell>
+    <Cell><Data ss:Type="String">La fede incrollabile alla vista di spargimento di sangue scoraggia i tuoi nemici ad entrare in guerra. Il giocatore bersaglio non può usare nessun Casus Belli per {turns}.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_EFFECT</Data></Cell>
-    <Cell><Data ss:Type="String">The targeted player is unable to use any Casus Belli.</Data></Cell>
+    <Cell><Data ss:Type="String">Il giocatore bersaglio non può usare nessun Casus Belli</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_UNDETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries report that our enemies are realizing the futility of fighting the Celestian Order and see no reason to attack us.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missionari riferiscono che i nostri nemici stanno realizzando la futilità di combattere l'Ordine Celestiano e non vedono alcuna ragione per attaccarci.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries have managed to discourage our enemies to go to war against us, but they are aware that we are behind this coercion.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missonari sono riusciti a scoraggiare i nostri nemici dall'andare in guerra contro di noi, ma essi sono al corrente che noi siamo dietro questa coercizione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_UNDETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries were unsuccessful in discouraging the populace from wanting to go to war against us. Our involvement remains hidden.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missoniari non sono riusciti a scoraggiare i nostri nemici dall'andare in guerra contro di noi. La nostra partecipazione rimane nascosta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our missionaries were unsuccessful in discouraging the populace from wanting to go to war against us. Unfortunately, our involvement in this tactic has been revealed.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri missoniari non sono riusciti a scoraggiare i nostri nemici dall'andare in guerra contro di noi. Sfortunatamente, essi sono al corrente che noi siamo dietro questa tattica.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our enemies have managed to talk our population out of wanting to go to war. We have sources on who was behind this. Surely this cannot go unanswered…</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri nemici sono riusciti a convinvere la nostra popolazione a non andare in guerra. Abbiamo degli informatori su chi sia stato. Sicuramente questo evento non può essere tralasciato…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">FUTILITY_OF_WAR</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our enemies tried to talk our population out of wanting to go to war but failed to do so. We have sources on who was behind this. Surely this cannot go unanswered…</Data></Cell>
+    <Cell><Data ss:Type="String">I nsotri nemici hanno provato a convincere la nostra popolazione a non andare in guerra ma hanno fallito nel loro intento. Abbiamo degli informatori su chi sia stato. Sicuramente questo evento non può essere tralasciato…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Sway Ideology </Data></Cell>
+    <Cell><Data ss:Type="String">Influenza Ideologia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Lowers the targeted player's standing with his most renowned faction by {FactionRelations} points and adds the same amount to your relation level with that faction.[br/][br/]On failure, both players receive {FailRelations} points.</Data></Cell>
+    <Cell><Data ss:Type="String">Abbassa la posizione del giocatore bersaglio con la sua fazione più rinomata di {FactionRelations} punti e aggiunge la stessa quantità al tuo livello di relazione con quella fazione.[br/][br/]In caso di fallimento, entrambi i giocatori ricevono {FailRelations} punti.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_UNDETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our diplomats have successfully managed to sway the opinion of one of our enemy's allies, and have solidified their opinion of us at the same time.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri diplomatici sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e hanno solidifacato la loro opinione su di noi allo stesso tempo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Our diplomats have successfully managed to sway the opinion of one of our enemy's allies, and have solidified their opinion of us at the same time. Unfortunately, our involvement in this matter has been discovered.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri diplomatici sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e hanno solidifacato la loro opinione su di noi allo stesso tempo. Sfortunatamente, la nostra partecipazione in questa operazione è stata scoperta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_UNDETECTED</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our diplomats were unsuccessful in swaying the opinion of one of our enemy's allies, and the resulting confusion ended up benefiting both sides. Our involvement in this matter was not discovered.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">I nostri diplomatici non sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e la confusione risultante ha beneficiato entrambe le parti. la nostra partecipazione in questa operazione non è stata scoperta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE_DETECTED</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our diplomats were unsuccessful in swaying the opinion of one of our enemy's allies, and the resulting confusion ended up benefiting both sides. Unfortunately, our involvement in this matter was discovered.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">I nostri diplomatici non sono riusciti a influenzare l'opinione di uno degli alleti del nostro nemico, e la confusione risultante ha beneficiato entrambe le parti. la nostra partecipazione in questa operazione  è stata scoperta.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Enemy diplomats have been discovered poisoning the minds of our allies, and our relations with that ally have soured because of this. Our agents have managed to trace this nefarious act back to an enemy state.</Data></Cell>
+    <Cell><Data ss:Type="String">Diplomatici nemici sono stati scoperti mentre avvellenavano le meinti dei nostri alleati, e la nostra relazione con l'alleato si sono perciò indebbolite. I nostri agenti sono riusciti a traccaire quest'atto nefario fino ad uno stato nemico</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SWAY_IDEOLOGY</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE_DETECTED</Data></Cell>
-    <Cell><Data ss:Type="String">Enemy diplomats have been discovered poisoning the minds of our allies. However, our ties to this ally have proven strong and the enemy's words ended up helping our cause. Our agents have managed to trace this nefarious attempt back to an enemy state.</Data></Cell>
+    <Cell><Data ss:Type="String">Diplomatici nemici sono stati scoperti mentre avvellenavano le meinti dei nostri alleati. Le nostre relazioni con questo alleato si sono dimostrate forti e le parole del nemico sono finite con l'aiutare la nostra causa. I nostri agenti sono riusciti a traccaire quest'atto nefario fino ad uno stato nemico.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SANCTUARY_OF_THE_STARS</Data></Cell>
