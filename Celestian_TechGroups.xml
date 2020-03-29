@@ -1005,286 +1005,286 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_INITIAL_TEXT</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">GENERIC</Data></Cell>
-    <Cell><Data ss:Type="String">A Player has unleashed their Final Revelation!</Data></Cell>
+    <Cell><Data ss:Type="String">Un Giocatore ha rilasciato la sua Rivelazione Finale!</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_BUILT_01</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">GENERIC</Data></Cell>
-    <Cell><Data ss:Type="String">By building a Beacon of Truth, {playerName} now has access to their Doomsday Weapon, the Final Revelation. It is weak now, but will become more powerful as more Beacons of Truth are constructed.</Data></Cell>
+    <Cell><Data ss:Type="String">Costruendo un Faro della Verità, {playerName}  ha ora accesso alla sua Arma del Giorno del Giudizio, la Rivelazione Finale. Ora è debole, ma diventerà più potente con la costruzione di altri Fari della Verità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_BUILT_02</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">GENERIC</Data></Cell>
-    <Cell><Data ss:Type="String">By building a second Beacon of Truth, {playerName} has strengthened their Doomsday Weapon, the Final Revelation. You should plan raids to destroy these structures before they become too powerful.</Data></Cell>
+    <Cell><Data ss:Type="String">Construnedo un secondo Faro della Verità, {playerName} ha rinforzato la sua Arma del Giorno del Giudizio, la Rivelazione Finale. Dovresti pianificare delle razzie per distruggere queste strutture prima che diventino troppo potenti.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_BUILT_03</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">GENERIC</Data></Cell>
-    <Cell><Data ss:Type="String">By building their final Beacon of Truth, {playerName} has maximized the strength of their Doomsday Weapon, the Final Revelation. They are now close to being able to fully unleash it to win the game. The time to strike is now!</Data></Cell>
+    <Cell><Data ss:Type="String">Costrunedo l'ultimo Faro della Verità, {playerName} ha massimizzato la forza della lora Arma del Giorno del Giudizio. Ora sono vicini a poterlo scatenarlo completamente per vincere il gioco. Il momento per attaccare è adesso!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_CAPTURED_TEXT</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">YOU</Data></Cell>
-    <Cell><Data ss:Type="String">The Doomsday Timer has been paused! You must reclaim the lost Beacon of Truth, or you will lose your chance at shining a light upon all and revealing the one and only Truth to them.</Data></Cell>
+    <Cell><Data ss:Type="String">Il Timer del Giorno del Giudizio è stato messo in pausa! Devi reclamare il Faro della Verità perduto, o perderai la tuo possibilità di brillare la luce verso tutti e di rivelargli la unica e sola verità.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_LOST_GLOBAL_TEXT</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">PLAYER</Data></Cell>
-    <Cell><Data ss:Type="String">The loss of a Beacon of Truth has canceled the Final Revelation, ending the Doomsday Timer.</Data></Cell>
+    <Cell><Data ss:Type="String">La perdita di un Faro della Verità ha cancellato la Rivelazione Finale, terminado il Timer del Giorno del Giudizio..</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_UPGRADE_LOST_NOT_GLOBAL_TEXT</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">YOU</Data></Cell>
-    <Cell><Data ss:Type="String">The loss of a Beacon of Truth has weakened our Final Revelation, and your Doomsday operations have been canceled</Data></Cell>
+    <Cell><Data ss:Type="String">La perdita di un Faro della Verità ha indebbolito la nostra Rivelazione Finale, e le tue operazioni del Giorno del Giudizio </Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_FINISHER_CAST_TEXT</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">PLAYER</Data></Cell>
-    <Cell><Data ss:Type="String">Our enemies have activated their Doomsday Weapon! The Final Revelation has spread across the planet, and your own Doomsday Weapon has been wiped out by the cataclysm. You have {numTurns} to destroy one of their Beacons of Truth before they win the game.</Data></Cell>
+    <Cell><Data ss:Type="String">I nostri nemici hanno attivato la lora Arma del Giorno del Giudizio! la Rivelazione Finale si èdiffusa nel pianeta, e la nostra Arma del Giorno del Giudizio è stata spazzata via dal cataclisma. Hai {numTurns} per distruggere uno dei loro Fari della Verità prima che vincano il gioco.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_RUNNING_VICTORY_TIMER</Data></Cell>
     <Cell><Data ss:Type="String">YOU</Data></Cell>
-    <Cell><Data ss:Type="String">The Final Revelation is active, and you will win in {numTurns} unless you lose one of your Beacons of Truth.</Data></Cell>
+    <Cell><Data ss:Type="String">La rivelazione finale è attiva, e vincerai in  {numTurns} a meno che tu perda una dei tuoi Fari della Verità.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_RUNNING_VICTORY_TIMER</Data></Cell>
     <Cell><Data ss:Type="String">PLAYER</Data></Cell>
-    <Cell><Data ss:Type="String">The Final Revelation is active, and {playerName} will win in {numTurns} unless you can destroy one of their Beacons of Truth.</Data></Cell>
+    <Cell><Data ss:Type="String">La Rivelazione Finale è attiva e {playerName} vincerà in {numTurns} a meno che tu perda una dei tuoi Fari della Verità.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_VICTORY_TIMER_PAUSED</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">YOU</Data></Cell>
-    <Cell><Data ss:Type="String">A Beacon of Truth has been captured. If it is destroyed, our Doomsday timer will be canceled. If you recapture it, you will be able to resume the countdown.</Data></Cell>
+    <Cell><Data ss:Type="String"></Data>Un Faro della Verità è stato catturato. Se viene distrutto, il nostro timer del Giorno del Giudizio verrà cancellato. Se lo ricattura, potrai riprendere il conto alla rovescia</Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_VICTORY_TIMER_PAUSED</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">PLAYER</Data></Cell>
-    <Cell><Data ss:Type="String">A Beacon of Truth has been captured. If it is destroyed, the Doomsday timer will be canceled. If {playerName} recaptures it, then they will be able to resume the countdown.</Data></Cell>
+    <Cell><Data ss:Type="String">Un Faro della Verità è stato catturato. Se viene distrutto il timer del Giorno del Giudizio verrà cancellato. Se {playerName} lo ricattura potrà riprendere il conto alla rovescia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAN_EVENT_FINISHER_PRIMING</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">GENERIC</Data></Cell>
-    <Cell><Data ss:Type="String">{playerName} is priming their Final Revelation Doomsday Weapon! If they are allowed to finish, your own Doomsday Weapon will be wiped out, and {playerName} will be but one step away from total victory.</Data></Cell>
+    <Cell><Data ss:Type="String">{playerName} sta innescando la loro Rivelzaione Finale dell'Arma del Giorno del Giudizio! Se gli si permette di finire, la tua Arma del Giudizio sarà spazzara via e {playerName} sarà solamente ad un passo dalla vittoria totale.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:Index="197" ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">CELESTIAN_END_GAME</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VICTORY_TEXT</Data></Cell>
-    <Cell><Data ss:Type="String">Can you feel it? Tangible peace.[br/]Can you hear it? Sweet harmony.[br/]Unified, they bury their weapons[br/]and cherish the differences of their fellows.[br/]Their jubilant dance celebrates a new age of enlightenment.[br/]The stars glimmer approvingly,[br/]beckoning for you to join them.</Data></Cell>
+    <Cell><Data ss:Type="String">La puoi sentire? Pace tangibile.[br/]La puoi sentire? Dolce Armonia.[br/]Unificati, seppilliscono le loro armi[br/]e hanno cura delle differenze dei loro compagni.[br/]La loro danza giubilate celebra una nuova era di illuminismo.[br/] Le stelle brillano approvando,[br/]Accennando affinché tu ti unisca a loro.</Data></Cell>
     <Cell ss:Index="5"><Data ss:Type="String">VO: Empress Carminia</Data></Cell>
    </Row>
    <Row ss:Index="199" ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Calm</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Calmo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Serene</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sereno</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Idyllic</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Idilliaco</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Balanced</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bilanciato</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Peaceful</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pacifico</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_TRANQUILITY</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Untroubled</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Impertubbato</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Condemning</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Condannate</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Repenting</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Penitente</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Sorrow's Shield</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Scudo della Tristezza</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Guilt Cover</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rifugio della Colpa</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Reproaching</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rimproverante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_REMORSE</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Shaming</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Svergognante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Sparing</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Moderato</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Peacetouch</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tocco di Pace</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Compassionate</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Compassionevole</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Wholesome</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sano</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Tending</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Badante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Curing</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Curante</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_7</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Considerate</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Considerato</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_HEALING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_8</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Finetouch</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tocco Fine</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Pacifier</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pacificatore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Calmsoul</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Anima Calma</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Peacemaker</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Conciliatore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Alleviator</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Alleviatore</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Beacon of Serenity</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Faro di Serenità</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Soothing</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lenitivo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">TENETS_OF_PACIFISM</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_7</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Icon of Faith</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Icona di Fede</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_1</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Heavenshroud</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Velo del Cielo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_2</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Saint's Wrath</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ira del Santo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_3</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Nemesis of Light</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Nemesi della luce</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_4</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Paladin</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Paladino</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_5</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Crusader</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Crociato</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_6</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Holy Champion</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Campione Santo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SHIELD_OF_RECKONING</Data></Cell>
     <Cell><Data ss:Type="String">TEMPLATE_NAME_7</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">Exodus</Data></Cell>
-    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Esodo</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">Rivedi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="6" ss:StyleID="s65"/>
