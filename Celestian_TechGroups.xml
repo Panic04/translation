@@ -293,7 +293,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Questa untià è illuminata seguendo i modi Celestiani. Ha {EnlightenedMorale} e arreca {EnlightenedDam} danno extra contro unità con Anima Bruciante.</Data></Cell>
+    <Cell><Data ss:Type="String">Questa untià è illuminata seguendo i modi Celestiani. Ha {EnlightenedMorale} e arreca {EnlightenedDam} di danno extra contro unità con Anima Bruciante.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED</Data></Cell>
@@ -313,7 +313,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULBLAZE</Data></Cell>
     <Cell><Data ss:Type="String">PROPERTY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">L'anima di quest'unità è infuocata, esponendo la sua vera essenza e debolezze. Unità [abilityblue]Illuminate[/abilityblue] arrecano {EnlightenedDam} danno contro quest unità.</Data></Cell>
+    <Cell><Data ss:Type="String">L'anima di quest'unità è infuocata, esponendo la sua vera essenza e debolezze. Unità [abilityblue]Illuminate[/abilityblue] arrecano {EnlightenedDam} di danno contro quest unità.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LIGHTS_HARMONY</Data></Cell>
@@ -483,170 +483,170 @@
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell><Data ss:Type="String">COMPELLING_PRESENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target enemy unit has a {strengthmindcontrol} strength chance to be [abilityred]Mind Controlled[/abilityred], increasing to a {strengthmindcontrolimprov} strength chance if the target is affected by [abilityred]Soulburn[/abilityred]. If they survive until end of combat, they are turned into a colonist. If this fails, the unit takes {PsionicDamage} damage.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio nemica ha una porbilità di forza {strengthmindcontrol} di essere [abilityred]Controllato Mentalmente[/abilityred],  una possibilità di forza {strengthmindcontrolimprov} se il bersaglio è affetto da [abilityred]Anima Bruciante[/abilityred]. Se sopravvive fino alla fine del combattimento, è trasformata in un colone. Se ciò fallisce l'unità riceve {PsionicDamage} di danno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">COMPELLING_PRESENCE</Data></Cell>
     <Cell><Data ss:Type="String">EVENT</Data></Cell>
-    <Cell><Data ss:Type="String">An enemy unit has laid down their arms and joined one of your colonies.</Data></Cell>
+    <Cell><Data ss:Type="String">Una unità ha deposto le armi e si è unita a una tua colonia</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAL_RADIANCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Radiance</Data></Cell>
+    <Cell><Data ss:Type="String">Splendore Celeste</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">CELESTIAL_RADIANCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">A surge of pure Celestial light heals all Enlightened units for {RadianceHeal} Hit Points and revives friendly units in a {CelestialRadianceRadius} hex radius area. The healing will be stronger for each friendly Enlightened unit in the battle.</Data></Cell>
+    <Cell><Data ss:Type="String">Un impeto di Luce Celeste cura tutte le unità Illuminate per {RadianceHeal} Punti Ferita e rianima le unità amiche in una area di raggio di esagoni {CelestialRadianceRadius}. La guarigione sarà più forte per ogni unità amica Illuminata nella battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CELESTIAL_WRATH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Celestial Wrath</Data></Cell>
+    <Cell><Data ss:Type="String">Ira Celeste</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CELESTIAL_WRATH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">A surge of Celestial Wrath courses down from the heavens, damaging all enemy units in a {CelestialWrathRadius} hex radius area. The damage will increase for each friendly Enlightened unit in the battle.</Data></Cell>
+    <Cell><Data ss:Type="String">Un impeto di Ira Celeste fluisce giù dai cieli, danneggiando tutte le unitò in un'area di raggio di esagoni {CelestialWrathRadius}. Il danno aumenterà per ogni unità amica Illuminita nella battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED_DAM_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Enlightened: Damage</Data></Cell>
+    <Cell><Data ss:Type="String">Illuminato: Danno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ENLIGHTENED_DAM_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">{EnlightenedDamageModifier} for each Enlightened unit in battle. Stacks up to 5 times.</Data></Cell>
+    <Cell><Data ss:Type="String">{EnlightenedDamageModifier} per ogni unità Illuminita in battaglia. S'accumula fino a 5 volte.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ENLIGHTENED_HEAL_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Enlightened: Healing</Data></Cell>
+    <Cell><Data ss:Type="String">Illuminato: Guarigione</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ENLIGHTENED_HEAL_MODIFIER</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">{EnlightenedHealModifier} for each Enlightened unit in battle. Stacks up to 5 times.</Data></Cell>
+    <Cell><Data ss:Type="String">{EnlightenedHealModifier} per ogni unità Illuminita in battaglia. S'accumula fino a 5 volte.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CLEANSING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Cleansing Light</Data></Cell>
+    <Cell><Data ss:Type="String">Luce Detergente</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">CLEANSING_LIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target unit heals for {CleansingLightHP} and is dispelled of all negative status effects.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio si cura per {CleansingLightHP} e tutti gli effetti di stato negativi sono dissipati.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">CLEANSE</Data></Cell>
     <Cell><Data ss:Type="String">NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Cleanse</Data></Cell>
+    <Cell><Data ss:Type="String">Pulizia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">CLEANSE</Data></Cell>
     <Cell><Data ss:Type="String">DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target friendly unit is dispelled of negative status effects and heals for {CleanseHeal}. This heals for an additional {CleanseAddedHeal} for each [abilityblue]Enlightened[/abilityblue] unit in battle.</Data></Cell>
+    <Cell><Data ss:Type="String">L'unità bersaglio amica viene ripulita di tutti gli effetti di stato negativi e si cura per {CleanseHeal}. Questo cura per un addizionale {CleanseAddedHeal} per ogni unità [abilityblue]Illuminita[/abilityblue] nella battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">RESURGENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Resurgence </Data></Cell>
+    <Cell><Data ss:Type="String">Rinascita </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">RESURGENCE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Utilize Psionic energy to pre-emptively ward a friendly living unit from death. If this battle results in victory, the target unit is revived after combat ends if it died during combat.</Data></Cell>
+    <Cell><Data ss:Type="String">Utilizza l'energia Psionica per preventivamente per proteggere una unità amica dalla morte. Se questa battaglia è vinta, l'unità bersaglio è rianimata dopo che il combattimento termina se è morta in battaglia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NEGATE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Negate</Data></Cell>
+    <Cell><Data ss:Type="String">Negare</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">NEGATE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">For {NegateTurns}, target friendly unit is immune to all damage, but they cannot move or use abilities during this time.  </Data></Cell>
+    <Cell><Data ss:Type="String">Per {NegateTurns}, l'unità bersaglio amica è immune a tutto il danno, ma non può muoversi  o usare abilità nel mentre.  </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">NEGATE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION_MOD</Data></Cell>
-    <Cell><Data ss:Type="String">Unit is immune to all damage, but they cannot move or use abilities.  </Data></Cell>
+    <Cell><Data ss:Type="String">L'unità è immune a tutto il danno, ma non può muoversi  o usare abilità nel mentre.  </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SPIRIT_FLASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Spirit Flash</Data></Cell>
+    <Cell><Data ss:Type="String">Spirito Lampo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SPIRIT_FLASH</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target non-Mindless enemy's spirit flashes brightly, causing [abilityred]Soulburn[/abilityred] and [abilityred]High Impact Stagger[/abilityred] to itself and all enemy units in a 2 hex radius around it.</Data></Cell>
+    <Cell><Data ss:Type="String">Lo spirito dell'unità nemica non-Senzamente lampeggia brillantemente, causando [abilityred]Anima Bruciante[/abilityred] e [abilityred]Sfalsamento ad Alto Impatto[/abilityred] a se stessa e tutte le unità nemiche in raggio di 2 esagoni intorno ad essa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">REPRIEVE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Area of Reprieve</Data></Cell>
+    <Cell><Data ss:Type="String">Area di Grazia</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">REPRIEVE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Block all Tactical Operations and unit damaging abilities for {ReprieveTurns} combat turn. Enlightened units heal for {ReprieveHP}.</Data></Cell>
+    <Cell><Data ss:Type="String">Blocca tutte le Operazioni Tattiche e le abilità che danneggiano unità per {ReprieveTurns} turni di combattimento. Unità Illluminate si curano per {ReprieveHP}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Blessing of Starlight</Data></Cell>
+    <Cell><Data ss:Type="String">Benedizione della Luce Stellare</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Target friendly army heals to {BlessingofStarlightHP}. They also gain Stagger Resistance and {accuracy} accuracy until the end of their next battle.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">L'armata bersaglio si cura a {BlessingofStarlightHP}. Ottiene anche Resistenza allo Sfalsamento e {accuracy} precisione fino alla fine della sua prossima battaglia.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Your army has been successfully blessed by Starlight. Their accuracy is increased and they have more stagger resistance until the end of their next battle. They have also recovered all their [hp/]</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">La tua armata è stata benedetta con successo dalla Luce Stellare. La loro precisone è aumentata e hanno una maggiore Resistenza allo Sfasamento fino alla fine della sua prossima armata. Ha anche recuperato tutti i suoi [hp/]</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">BLESSING_OF_STARLIGHT</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_EFFECT</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Your army has been healed and gained a boost in accaracy and Stagger Resistance until the end of their next battle.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">La tua armata è stata armata è stata curata e ha ottenuto un bonus in precisione e Resistenza allo Sfasamento fino alla fine della loro prossima battaglia.</Data></Cell>
     <Cell ss:Index="6" ss:StyleID="s65"/>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_NAME</Data></Cell>
-    <Cell><Data ss:Type="String">Soulfire</Data></Cell>
+    <Cell><Data ss:Type="String">Fuocanima</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">ABILITY_DESCRIPTION</Data></Cell>
-    <Cell><Data ss:Type="String">Target enemy army takes {SoulfireDam} damage and suffers [abilityred]Soulburn[/abilityred] whenever they engage in battle for {SoulfireTurn}. </Data></Cell>
+    <Cell><Data ss:Type="String">Lìarmata nemica bersaglio prende {SoulfireDam} di danno e soffre di [abilityred]Anima Bruciante[/abilityred] quando partecipano alla battaglia per {SoulfireTurn}. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">Our Soulfire operation was successful - the enemy units in the targeted army suffered {SoulfireDamage} damage and are afflicted by [abilityRed]Soulburn[/abilityRed] for {SoulfireTurn}.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">La nostra operazione Fuocanima è riuscita - le unità nemiche nell'armata bersagliata soffrono {SoulfireDamage} e sono afflitte da [abilityRed]Anima Bruciante[/abilityRed] per {SoulfireTurn}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">CASTER_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">Soulfire was partially resisted by the enemy army. The army's units took {SoulfireFailureDamage} damage, but they are not suffering from [abilityred]Soulburn[/abilityred].</Data></Cell>
+    <Cell><Data ss:Type="String">Fuocanima è stata parzialmente resisitita dall'armata nemica. Le unità dell'armata hanno preso {SoulfireFailureDamage} di danno, but they are not suffering from [abilityred]Soulburn[/abilityred].</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_SUCCESS</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">A Celestian Soulfire attack was launched against one of our armies! The army took {SoulfireDamage} and will be afflicted with [abilityred]Soulburn[/abilityred] whenever they enter battle during the next {SoulfireTurn}.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Un attaco Fuocanima Celsete è stato lanciato contro una delle nostre armate! L'armata ha preso {SoulfireDamage} di danno e sarà afflitta con [abilityred]Anima Bruciante[/abilityred] se entra in battaglia durante il {SoulfireTurn}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
     <Cell><Data ss:Type="String">TARGET_FAILURE</Data></Cell>
-    <Cell><Data ss:Type="String">A Celestian Soulfire attack was launched against one of our armies. Luckily, it was detected before it could take full effect and the damage is minimized. The army took {SoulfireFailureDamage} but is otherwise unaffected.</Data></Cell>
+    <Cell><Data ss:Type="String">Un attaco Fuocanima Celsete è stato lanciato contro una delle nostre armate. Fortunatamente, è stata rilevata prima che potesse avere un effetto totale e il danno è minimizzato. L'armata ha preso {SoulfireFailureDamage} ma non è danneggiata in nessun altro modo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">SOULFIRE</Data></Cell>
